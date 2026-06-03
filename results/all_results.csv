@@ -1,0 +1,2881 @@
+corruption_type,corruption_key,level,scenario,model_pipeline,metric,value
+Gaussian Noise,gaussian,0.0,clean,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.0,clean,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.0,clean,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.0,clean,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.0,clean,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.0,clean,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.0,clean,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.0,clean,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.0,clean,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.0,clean,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.0,clean,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.0,clean,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.0,clean,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.0,clean,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.0,clean,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.0,clean,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.0,clean,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.0,clean,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.0,clean,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.0,clean,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,clean,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.0,clean,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.0,clean,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.0,clean,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.0,clean,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,clean,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.0,clean,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.0,clean,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.0,clean,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.0,clean,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.0,scenario_A,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.0,scenario_A,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.0,scenario_B,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.0,scenario_B,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.0,scenario_C,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.0,scenario_C,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.1,clean,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.1,clean,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.1,clean,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.1,clean,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.1,clean,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.1,clean,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.1,clean,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.1,clean,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.1,clean,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.1,clean,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.1,clean,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.1,clean,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.1,clean,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.1,clean,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.1,clean,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.1,clean,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.1,clean,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.1,clean,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.1,clean,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.1,clean,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,clean,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.1,clean,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.1,clean,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.1,clean,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.1,clean,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,clean,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.1,clean,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.1,clean,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.1,clean,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.1,clean,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / Full,acc_mean,0.969231
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / Full,acc_std,0.008223
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / Full,auc_mean,0.992776
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / Full,prec_mean,0.972336
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / Full,rec_mean,0.978947
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / PCA,acc_mean,0.973626
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / PCA,acc_std,0.011207
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / PCA,auc_mean,0.991022
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / PCA,prec_mean,0.969078
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / PCA,rec_mean,0.989474
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / FS,acc_mean,0.947253
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / FS,acc_std,0.012815
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / FS,auc_mean,0.980495
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / FS,prec_mean,0.951655
+Gaussian Noise,gaussian,0.1,scenario_A,ANN / FS,rec_mean,0.964912
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / FS,auc_mean,0.975387
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.1,scenario_A,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / Full,acc_mean,0.967033
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / Full,acc_std,0.00695
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / Full,auc_mean,0.990093
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / Full,prec_mean,0.966234
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / Full,rec_mean,0.982456
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / PCA,acc_mean,0.978022
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / PCA,acc_std,0.00695
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / PCA,auc_mean,0.993498
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / PCA,prec_mean,0.972587
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / PCA,rec_mean,0.992982
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / FS,acc_mean,0.936264
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / FS,acc_std,0.014579
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / FS,auc_mean,0.980392
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / FS,prec_mean,0.947889
+Gaussian Noise,gaussian,0.1,scenario_B,ANN / FS,rec_mean,0.950877
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / Full,acc_std,0.00695
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / Full,auc_mean,0.990402
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / Full,prec_mean,0.979421
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / PCA,acc_mean,0.984615
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / PCA,acc_std,0.008791
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / PCA,auc_mean,0.991744
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / PCA,prec_mean,0.986263
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / PCA,rec_mean,0.989474
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / FS,acc_mean,0.940659
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / FS,acc_std,0.014906
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / FS,auc_mean,0.977812
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / FS,prec_mean,0.957835
+Gaussian Noise,gaussian,0.1,scenario_B,SVM / FS,rec_mean,0.947368
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / Full,acc_mean,0.971429
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / Full,acc_std,0.014906
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / Full,auc_mean,0.993911
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / Full,prec_mean,0.975549
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / Full,rec_mean,0.978947
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / PCA,acc_mean,0.971429
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / PCA,acc_std,0.008791
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / PCA,auc_mean,0.98968
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / PCA,prec_mean,0.969018
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / FS,acc_std,0.014906
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / FS,auc_mean,0.979979
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / FS,prec_mean,0.950931
+Gaussian Noise,gaussian,0.1,scenario_C,ANN / FS,rec_mean,0.950877
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / Full,acc_std,0.00695
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / Full,auc_mean,0.990402
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / Full,prec_mean,0.979421
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / PCA,acc_mean,0.984615
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / PCA,acc_std,0.008791
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / PCA,auc_mean,0.991744
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / PCA,prec_mean,0.986263
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / PCA,rec_mean,0.989474
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / FS,acc_mean,0.940659
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / FS,acc_std,0.014906
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / FS,auc_mean,0.977812
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / FS,prec_mean,0.957835
+Gaussian Noise,gaussian,0.1,scenario_C,SVM / FS,rec_mean,0.947368
+Gaussian Noise,gaussian,0.25,clean,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.25,clean,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.25,clean,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.25,clean,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.25,clean,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.25,clean,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.25,clean,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.25,clean,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.25,clean,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.25,clean,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.25,clean,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.25,clean,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.25,clean,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.25,clean,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.25,clean,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.25,clean,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.25,clean,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.25,clean,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.25,clean,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.25,clean,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.25,clean,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.25,clean,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.25,clean,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.25,clean,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.25,clean,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.25,clean,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.25,clean,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.25,clean,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.25,clean,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.25,clean,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / Full,acc_mean,0.962637
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / Full,acc_std,0.013187
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / Full,prec_mean,0.965818
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / Full,rec_mean,0.975439
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / PCA,acc_mean,0.971429
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / PCA,acc_std,0.005383
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / PCA,auc_mean,0.99195
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / PCA,prec_mean,0.965918
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / PCA,rec_mean,0.989474
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / FS,acc_mean,0.936264
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / FS,acc_std,0.010767
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / FS,auc_mean,0.981011
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / FS,prec_mean,0.944787
+Gaussian Noise,gaussian,0.25,scenario_A,ANN / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.25,scenario_A,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / Full,acc_mean,0.971429
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / Full,acc_std,0.013187
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / Full,auc_mean,0.992673
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / Full,prec_mean,0.978991
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / Full,rec_mean,0.975439
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / PCA,acc_mean,0.967033
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / PCA,acc_std,0.015541
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / PCA,auc_mean,0.989061
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / PCA,prec_mean,0.959258
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / PCA,rec_mean,0.989474
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / FS,acc_mean,0.936264
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / FS,auc_mean,0.981011
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / FS,prec_mean,0.947894
+Gaussian Noise,gaussian,0.25,scenario_B,ANN / FS,rec_mean,0.950877
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / Full,acc_mean,0.971429
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / Full,acc_std,0.008791
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / Full,auc_mean,0.99515
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / Full,prec_mean,0.972646
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / Full,rec_mean,0.982456
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / PCA,acc_mean,0.969231
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / PCA,auc_mean,0.995562
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / PCA,prec_mean,0.969128
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / PCA,rec_mean,0.982456
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / FS,acc_std,0.022413
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / FS,auc_mean,0.981218
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / FS,prec_mean,0.951388
+Gaussian Noise,gaussian,0.25,scenario_B,SVM / FS,rec_mean,0.957895
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / Full,auc_mean,0.995046
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / Full,prec_mean,0.972464
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / PCA,acc_std,0.004396
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / PCA,auc_mean,0.991538
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / PCA,prec_mean,0.972527
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / PCA,rec_mean,0.989474
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / FS,acc_mean,0.940659
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / FS,acc_std,0.014906
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / FS,auc_mean,0.982353
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / FS,prec_mean,0.944809
+Gaussian Noise,gaussian,0.25,scenario_C,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / Full,acc_mean,0.971429
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / Full,acc_std,0.008791
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / Full,auc_mean,0.99515
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / Full,prec_mean,0.972646
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / Full,rec_mean,0.982456
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / PCA,acc_mean,0.969231
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / PCA,auc_mean,0.995562
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / PCA,prec_mean,0.969128
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / PCA,rec_mean,0.982456
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / FS,acc_std,0.022413
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / FS,auc_mean,0.981218
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / FS,prec_mean,0.951388
+Gaussian Noise,gaussian,0.25,scenario_C,SVM / FS,rec_mean,0.957895
+Gaussian Noise,gaussian,0.5,clean,ANN / Full,acc_mean,0.978022
+Gaussian Noise,gaussian,0.5,clean,ANN / Full,acc_std,0.0
+Gaussian Noise,gaussian,0.5,clean,ANN / Full,auc_mean,0.991847
+Gaussian Noise,gaussian,0.5,clean,ANN / Full,prec_mean,0.975914
+Gaussian Noise,gaussian,0.5,clean,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.5,clean,ANN / PCA,acc_mean,0.964835
+Gaussian Noise,gaussian,0.5,clean,ANN / PCA,acc_std,0.012815
+Gaussian Noise,gaussian,0.5,clean,ANN / PCA,auc_mean,0.98741
+Gaussian Noise,gaussian,0.5,clean,ANN / PCA,prec_mean,0.968765
+Gaussian Noise,gaussian,0.5,clean,ANN / PCA,rec_mean,0.975439
+Gaussian Noise,gaussian,0.5,clean,ANN / FS,acc_mean,0.942857
+Gaussian Noise,gaussian,0.5,clean,ANN / FS,acc_std,0.018906
+Gaussian Noise,gaussian,0.5,clean,ANN / FS,auc_mean,0.978122
+Gaussian Noise,gaussian,0.5,clean,ANN / FS,prec_mean,0.94803
+Gaussian Noise,gaussian,0.5,clean,ANN / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.5,clean,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.5,clean,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.5,clean,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.5,clean,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.5,clean,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,clean,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.5,clean,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.5,clean,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.5,clean,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.5,clean,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,clean,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.5,clean,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.5,clean,SVM / FS,auc_mean,0.975335
+Gaussian Noise,gaussian,0.5,clean,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.5,clean,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / Full,acc_mean,0.967033
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / Full,acc_std,0.0139
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / Full,auc_mean,0.990093
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / Full,prec_mean,0.965945
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / Full,rec_mean,0.982456
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / PCA,acc_mean,0.978022
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / PCA,acc_std,0.009829
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / PCA,auc_mean,0.990196
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / PCA,prec_mean,0.969427
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / PCA,rec_mean,0.996491
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / FS,acc_mean,0.951648
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / FS,auc_mean,0.981527
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / FS,prec_mean,0.95492
+Gaussian Noise,gaussian,0.5,scenario_A,ANN / FS,rec_mean,0.968421
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / Full,acc_mean,0.973626
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / Full,auc_mean,0.990196
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / Full,prec_mean,0.972631
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / Full,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / PCA,acc_mean,0.975824
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / PCA,acc_std,0.008223
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / PCA,auc_mean,0.992466
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / PCA,prec_mean,0.975795
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / FS,acc_std,0.01916
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / FS,auc_mean,0.975387
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / FS,prec_mean,0.948331
+Gaussian Noise,gaussian,0.5,scenario_A,SVM / FS,rec_mean,0.954386
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / Full,acc_mean,0.962637
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / Full,acc_std,0.005383
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / Full,auc_mean,0.99195
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / Full,prec_mean,0.962401
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / Full,rec_mean,0.978947
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / PCA,acc_mean,0.967033
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / PCA,acc_std,0.012038
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / PCA,auc_mean,0.984623
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / PCA,prec_mean,0.96247
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / FS,acc_mean,0.938462
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / FS,acc_std,0.008791
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / FS,auc_mean,0.980805
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / FS,prec_mean,0.935988
+Gaussian Noise,gaussian,0.5,scenario_B,ANN / FS,rec_mean,0.968421
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / Full,acc_mean,0.956044
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / Full,acc_std,0.015541
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / Full,auc_mean,0.993086
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / Full,prec_mean,0.952651
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / Full,rec_mean,0.978947
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / PCA,acc_mean,0.973626
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / PCA,acc_std,0.005383
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / PCA,auc_mean,0.99195
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / PCA,prec_mean,0.972648
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / FS,acc_mean,0.940659
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / FS,acc_std,0.014906
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / FS,auc_mean,0.980083
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / FS,prec_mean,0.944855
+Gaussian Noise,gaussian,0.5,scenario_B,SVM / FS,rec_mean,0.961404
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / Full,acc_mean,0.964835
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / Full,acc_std,0.012815
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / Full,auc_mean,0.990299
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / Full,prec_mean,0.956398
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / Full,rec_mean,0.989474
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / PCA,acc_mean,0.967033
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / PCA,acc_std,0.015541
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / PCA,auc_mean,0.986481
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / PCA,prec_mean,0.96585
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / PCA,rec_mean,0.982456
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / FS,acc_mean,0.923077
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / FS,acc_std,0.018388
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / FS,auc_mean,0.980908
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / FS,prec_mean,0.931691
+Gaussian Noise,gaussian,0.5,scenario_C,ANN / FS,rec_mean,0.947368
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / Full,acc_mean,0.956044
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / Full,acc_std,0.015541
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / Full,auc_mean,0.993086
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / Full,prec_mean,0.952651
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / Full,rec_mean,0.978947
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / PCA,acc_mean,0.973626
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / PCA,acc_std,0.005383
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / PCA,auc_mean,0.99195
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / PCA,prec_mean,0.972648
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / PCA,rec_mean,0.985965
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / FS,acc_mean,0.940659
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / FS,acc_std,0.014906
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / FS,auc_mean,0.980083
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / FS,prec_mean,0.944855
+Gaussian Noise,gaussian,0.5,scenario_C,SVM / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.0,clean,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.0,clean,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.0,clean,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.0,clean,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.0,clean,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.0,clean,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.0,clean,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.0,clean,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.0,clean,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.0,clean,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.0,clean,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.0,clean,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.0,clean,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.0,clean,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.0,clean,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.0,clean,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.0,clean,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.0,clean,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.0,clean,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.0,clean,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.0,clean,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.0,clean,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.0,clean,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.0,clean,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.0,clean,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.0,clean,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.0,clean,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.0,clean,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.0,clean,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.0,clean,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.0,scenario_A,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.0,scenario_A,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.0,scenario_A,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.0,scenario_A,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.0,scenario_A,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.0,scenario_A,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.0,scenario_A,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.0,scenario_A,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.0,scenario_A,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.0,scenario_A,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.0,scenario_A,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.0,scenario_A,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.0,scenario_A,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.0,scenario_A,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.0,scenario_A,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.0,scenario_A,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.0,scenario_A,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.0,scenario_A,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.0,scenario_A,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.0,scenario_A,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.0,scenario_A,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.0,scenario_A,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.0,scenario_A,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.0,scenario_A,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.0,scenario_A,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.0,scenario_A,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.0,scenario_A,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.0,scenario_A,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.0,scenario_A,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.0,scenario_A,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.0,scenario_B,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.0,scenario_B,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.0,scenario_B,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.0,scenario_B,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.0,scenario_B,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.0,scenario_B,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.0,scenario_B,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.0,scenario_B,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.0,scenario_B,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.0,scenario_B,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.0,scenario_B,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.0,scenario_B,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.0,scenario_B,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.0,scenario_B,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.0,scenario_B,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.0,scenario_B,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.0,scenario_B,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.0,scenario_B,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.0,scenario_B,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.0,scenario_B,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.0,scenario_B,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.0,scenario_B,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.0,scenario_B,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.0,scenario_B,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.0,scenario_B,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.0,scenario_B,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.0,scenario_B,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.0,scenario_B,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.0,scenario_B,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.0,scenario_B,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.0,scenario_C,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.0,scenario_C,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.0,scenario_C,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.0,scenario_C,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.0,scenario_C,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.0,scenario_C,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.0,scenario_C,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.0,scenario_C,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.0,scenario_C,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.0,scenario_C,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.0,scenario_C,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.0,scenario_C,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.0,scenario_C,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.0,scenario_C,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.0,scenario_C,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.0,scenario_C,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.0,scenario_C,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.0,scenario_C,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.0,scenario_C,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.0,scenario_C,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.0,scenario_C,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.0,scenario_C,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.0,scenario_C,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.0,scenario_C,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.0,scenario_C,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.0,scenario_C,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.0,scenario_C,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.0,scenario_C,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.0,scenario_C,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.0,scenario_C,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.05,clean,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.05,clean,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.05,clean,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.05,clean,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.05,clean,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.05,clean,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.05,clean,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.05,clean,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.05,clean,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.05,clean,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.05,clean,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.05,clean,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.05,clean,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.05,clean,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.05,clean,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.05,clean,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.05,clean,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.05,clean,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.05,clean,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.05,clean,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.05,clean,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.05,clean,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.05,clean,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.05,clean,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.05,clean,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.05,clean,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.05,clean,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.05,clean,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.05,clean,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.05,clean,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.05,scenario_A,ANN / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.05,scenario_A,ANN / Full,acc_std,0.005383
+Outlier Injection,outlier,0.05,scenario_A,ANN / Full,auc_mean,0.99226
+Outlier Injection,outlier,0.05,scenario_A,ANN / Full,prec_mean,0.972464
+Outlier Injection,outlier,0.05,scenario_A,ANN / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.05,scenario_A,ANN / PCA,acc_mean,0.971429
+Outlier Injection,outlier,0.05,scenario_A,ANN / PCA,acc_std,0.008791
+Outlier Injection,outlier,0.05,scenario_A,ANN / PCA,auc_mean,0.98968
+Outlier Injection,outlier,0.05,scenario_A,ANN / PCA,prec_mean,0.969296
+Outlier Injection,outlier,0.05,scenario_A,ANN / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.05,scenario_A,ANN / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.05,scenario_A,ANN / FS,acc_std,0.005383
+Outlier Injection,outlier,0.05,scenario_A,ANN / FS,auc_mean,0.979876
+Outlier Injection,outlier,0.05,scenario_A,ANN / FS,prec_mean,0.9479
+Outlier Injection,outlier,0.05,scenario_A,ANN / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.05,scenario_A,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.05,scenario_A,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.05,scenario_A,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.05,scenario_A,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.05,scenario_A,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.05,scenario_A,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.05,scenario_A,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.05,scenario_A,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.05,scenario_A,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.05,scenario_A,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.05,scenario_A,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.05,scenario_A,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.05,scenario_A,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.05,scenario_A,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.05,scenario_A,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.05,scenario_B,ANN / Full,acc_mean,0.951648
+Outlier Injection,outlier,0.05,scenario_B,ANN / Full,acc_std,0.017855
+Outlier Injection,outlier,0.05,scenario_B,ANN / Full,auc_mean,0.945511
+Outlier Injection,outlier,0.05,scenario_B,ANN / Full,prec_mean,0.949072
+Outlier Injection,outlier,0.05,scenario_B,ANN / Full,rec_mean,0.975439
+Outlier Injection,outlier,0.05,scenario_B,ANN / PCA,acc_mean,0.936264
+Outlier Injection,outlier,0.05,scenario_B,ANN / PCA,acc_std,0.040763
+Outlier Injection,outlier,0.05,scenario_B,ANN / PCA,auc_mean,0.943653
+Outlier Injection,outlier,0.05,scenario_B,ANN / PCA,prec_mean,0.938465
+Outlier Injection,outlier,0.05,scenario_B,ANN / PCA,rec_mean,0.961404
+Outlier Injection,outlier,0.05,scenario_B,ANN / FS,acc_mean,0.916484
+Outlier Injection,outlier,0.05,scenario_B,ANN / FS,acc_std,0.026556
+Outlier Injection,outlier,0.05,scenario_B,ANN / FS,auc_mean,0.941589
+Outlier Injection,outlier,0.05,scenario_B,ANN / FS,prec_mean,0.927964
+Outlier Injection,outlier,0.05,scenario_B,ANN / FS,rec_mean,0.940351
+Outlier Injection,outlier,0.05,scenario_B,SVM / Full,acc_mean,0.947253
+Outlier Injection,outlier,0.05,scenario_B,SVM / Full,acc_std,0.020143
+Outlier Injection,outlier,0.05,scenario_B,SVM / Full,auc_mean,0.987203
+Outlier Injection,outlier,0.05,scenario_B,SVM / Full,prec_mean,0.946132
+Outlier Injection,outlier,0.05,scenario_B,SVM / Full,rec_mean,0.97193
+Outlier Injection,outlier,0.05,scenario_B,SVM / PCA,acc_mean,0.951648
+Outlier Injection,outlier,0.05,scenario_B,SVM / PCA,acc_std,0.014906
+Outlier Injection,outlier,0.05,scenario_B,SVM / PCA,auc_mean,0.988235
+Outlier Injection,outlier,0.05,scenario_B,SVM / PCA,prec_mean,0.949659
+Outlier Injection,outlier,0.05,scenario_B,SVM / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.05,scenario_B,SVM / FS,acc_mean,0.901099
+Outlier Injection,outlier,0.05,scenario_B,SVM / FS,acc_std,0.02085
+Outlier Injection,outlier,0.05,scenario_B,SVM / FS,auc_mean,0.977296
+Outlier Injection,outlier,0.05,scenario_B,SVM / FS,prec_mean,0.915215
+Outlier Injection,outlier,0.05,scenario_B,SVM / FS,rec_mean,0.929825
+Outlier Injection,outlier,0.05,scenario_C,ANN / Full,acc_mean,0.931868
+Outlier Injection,outlier,0.05,scenario_C,ANN / Full,acc_std,0.01615
+Outlier Injection,outlier,0.05,scenario_C,ANN / Full,auc_mean,0.943653
+Outlier Injection,outlier,0.05,scenario_C,ANN / Full,prec_mean,0.935124
+Outlier Injection,outlier,0.05,scenario_C,ANN / Full,rec_mean,0.957895
+Outlier Injection,outlier,0.05,scenario_C,ANN / PCA,acc_mean,0.923077
+Outlier Injection,outlier,0.05,scenario_C,ANN / PCA,acc_std,0.033331
+Outlier Injection,outlier,0.05,scenario_C,ANN / PCA,auc_mean,0.928999
+Outlier Injection,outlier,0.05,scenario_C,ANN / PCA,prec_mean,0.925488
+Outlier Injection,outlier,0.05,scenario_C,ANN / PCA,rec_mean,0.954386
+Outlier Injection,outlier,0.05,scenario_C,ANN / FS,acc_mean,0.914286
+Outlier Injection,outlier,0.05,scenario_C,ANN / FS,acc_std,0.025441
+Outlier Injection,outlier,0.05,scenario_C,ANN / FS,auc_mean,0.945098
+Outlier Injection,outlier,0.05,scenario_C,ANN / FS,prec_mean,0.922436
+Outlier Injection,outlier,0.05,scenario_C,ANN / FS,rec_mean,0.94386
+Outlier Injection,outlier,0.05,scenario_C,SVM / Full,acc_mean,0.947253
+Outlier Injection,outlier,0.05,scenario_C,SVM / Full,acc_std,0.020143
+Outlier Injection,outlier,0.05,scenario_C,SVM / Full,auc_mean,0.987513
+Outlier Injection,outlier,0.05,scenario_C,SVM / Full,prec_mean,0.946132
+Outlier Injection,outlier,0.05,scenario_C,SVM / Full,rec_mean,0.97193
+Outlier Injection,outlier,0.05,scenario_C,SVM / PCA,acc_mean,0.951648
+Outlier Injection,outlier,0.05,scenario_C,SVM / PCA,acc_std,0.014906
+Outlier Injection,outlier,0.05,scenario_C,SVM / PCA,auc_mean,0.987926
+Outlier Injection,outlier,0.05,scenario_C,SVM / PCA,prec_mean,0.949659
+Outlier Injection,outlier,0.05,scenario_C,SVM / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.05,scenario_C,SVM / FS,acc_mean,0.901099
+Outlier Injection,outlier,0.05,scenario_C,SVM / FS,acc_std,0.02085
+Outlier Injection,outlier,0.05,scenario_C,SVM / FS,auc_mean,0.977399
+Outlier Injection,outlier,0.05,scenario_C,SVM / FS,prec_mean,0.915215
+Outlier Injection,outlier,0.05,scenario_C,SVM / FS,rec_mean,0.929825
+Outlier Injection,outlier,0.1,clean,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.1,clean,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.1,clean,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.1,clean,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.1,clean,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.1,clean,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.1,clean,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.1,clean,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.1,clean,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.1,clean,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.1,clean,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.1,clean,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.1,clean,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.1,clean,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.1,clean,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.1,clean,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.1,clean,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.1,clean,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.1,clean,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.1,clean,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.1,clean,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.1,clean,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.1,clean,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.1,clean,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.1,clean,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.1,clean,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.1,clean,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.1,clean,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.1,clean,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.1,clean,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.1,scenario_A,ANN / Full,acc_mean,0.969231
+Outlier Injection,outlier,0.1,scenario_A,ANN / Full,acc_std,0.008223
+Outlier Injection,outlier,0.1,scenario_A,ANN / Full,auc_mean,0.991538
+Outlier Injection,outlier,0.1,scenario_A,ANN / Full,prec_mean,0.969179
+Outlier Injection,outlier,0.1,scenario_A,ANN / Full,rec_mean,0.982456
+Outlier Injection,outlier,0.1,scenario_A,ANN / PCA,acc_mean,0.973626
+Outlier Injection,outlier,0.1,scenario_A,ANN / PCA,acc_std,0.014906
+Outlier Injection,outlier,0.1,scenario_A,ANN / PCA,auc_mean,0.991125
+Outlier Injection,outlier,0.1,scenario_A,ANN / PCA,prec_mean,0.969139
+Outlier Injection,outlier,0.1,scenario_A,ANN / PCA,rec_mean,0.989474
+Outlier Injection,outlier,0.1,scenario_A,ANN / FS,acc_mean,0.940659
+Outlier Injection,outlier,0.1,scenario_A,ANN / FS,acc_std,0.011207
+Outlier Injection,outlier,0.1,scenario_A,ANN / FS,auc_mean,0.978535
+Outlier Injection,outlier,0.1,scenario_A,ANN / FS,prec_mean,0.951175
+Outlier Injection,outlier,0.1,scenario_A,ANN / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.1,scenario_A,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.1,scenario_A,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.1,scenario_A,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.1,scenario_A,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.1,scenario_A,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.1,scenario_A,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.1,scenario_A,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.1,scenario_A,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.1,scenario_A,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.1,scenario_A,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.1,scenario_A,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.1,scenario_A,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.1,scenario_A,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.1,scenario_A,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.1,scenario_A,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.1,scenario_B,ANN / Full,acc_mean,0.923077
+Outlier Injection,outlier,0.1,scenario_B,ANN / Full,acc_std,0.015541
+Outlier Injection,outlier,0.1,scenario_B,ANN / Full,auc_mean,0.943963
+Outlier Injection,outlier,0.1,scenario_B,ANN / Full,prec_mean,0.929313
+Outlier Injection,outlier,0.1,scenario_B,ANN / Full,rec_mean,0.950877
+Outlier Injection,outlier,0.1,scenario_B,ANN / PCA,acc_mean,0.920879
+Outlier Injection,outlier,0.1,scenario_B,ANN / PCA,acc_std,0.022413
+Outlier Injection,outlier,0.1,scenario_B,ANN / PCA,auc_mean,0.950052
+Outlier Injection,outlier,0.1,scenario_B,ANN / PCA,prec_mean,0.930082
+Outlier Injection,outlier,0.1,scenario_B,ANN / PCA,rec_mean,0.947368
+Outlier Injection,outlier,0.1,scenario_B,ANN / FS,acc_mean,0.885714
+Outlier Injection,outlier,0.1,scenario_B,ANN / FS,acc_std,0.034471
+Outlier Injection,outlier,0.1,scenario_B,ANN / FS,auc_mean,0.915686
+Outlier Injection,outlier,0.1,scenario_B,ANN / FS,prec_mean,0.903941
+Outlier Injection,outlier,0.1,scenario_B,ANN / FS,rec_mean,0.915789
+Outlier Injection,outlier,0.1,scenario_B,SVM / Full,acc_mean,0.936264
+Outlier Injection,outlier,0.1,scenario_B,SVM / Full,acc_std,0.017582
+Outlier Injection,outlier,0.1,scenario_B,SVM / Full,auc_mean,0.988545
+Outlier Injection,outlier,0.1,scenario_B,SVM / Full,prec_mean,0.914123
+Outlier Injection,outlier,0.1,scenario_B,SVM / Full,rec_mean,0.992982
+Outlier Injection,outlier,0.1,scenario_B,SVM / PCA,acc_mean,0.936264
+Outlier Injection,outlier,0.1,scenario_B,SVM / PCA,acc_std,0.01615
+Outlier Injection,outlier,0.1,scenario_B,SVM / PCA,auc_mean,0.984623
+Outlier Injection,outlier,0.1,scenario_B,SVM / PCA,prec_mean,0.913643
+Outlier Injection,outlier,0.1,scenario_B,SVM / PCA,rec_mean,0.992982
+Outlier Injection,outlier,0.1,scenario_B,SVM / FS,acc_mean,0.905495
+Outlier Injection,outlier,0.1,scenario_B,SVM / FS,acc_std,0.013187
+Outlier Injection,outlier,0.1,scenario_B,SVM / FS,auc_mean,0.973271
+Outlier Injection,outlier,0.1,scenario_B,SVM / FS,prec_mean,0.913664
+Outlier Injection,outlier,0.1,scenario_B,SVM / FS,rec_mean,0.940351
+Outlier Injection,outlier,0.1,scenario_C,ANN / Full,acc_mean,0.907692
+Outlier Injection,outlier,0.1,scenario_C,ANN / Full,acc_std,0.014906
+Outlier Injection,outlier,0.1,scenario_C,ANN / Full,auc_mean,0.922497
+Outlier Injection,outlier,0.1,scenario_C,ANN / Full,prec_mean,0.918257
+Outlier Injection,outlier,0.1,scenario_C,ANN / Full,rec_mean,0.936842
+Outlier Injection,outlier,0.1,scenario_C,ANN / PCA,acc_mean,0.914286
+Outlier Injection,outlier,0.1,scenario_C,ANN / PCA,acc_std,0.028991
+Outlier Injection,outlier,0.1,scenario_C,ANN / PCA,auc_mean,0.932095
+Outlier Injection,outlier,0.1,scenario_C,ANN / PCA,prec_mean,0.91676
+Outlier Injection,outlier,0.1,scenario_C,ANN / PCA,rec_mean,0.950877
+Outlier Injection,outlier,0.1,scenario_C,ANN / FS,acc_mean,0.903297
+Outlier Injection,outlier,0.1,scenario_C,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.1,scenario_C,ANN / FS,auc_mean,0.941538
+Outlier Injection,outlier,0.1,scenario_C,ANN / FS,prec_mean,0.917461
+Outlier Injection,outlier,0.1,scenario_C,ANN / FS,rec_mean,0.929825
+Outlier Injection,outlier,0.1,scenario_C,SVM / Full,acc_mean,0.936264
+Outlier Injection,outlier,0.1,scenario_C,SVM / Full,acc_std,0.017582
+Outlier Injection,outlier,0.1,scenario_C,SVM / Full,auc_mean,0.988132
+Outlier Injection,outlier,0.1,scenario_C,SVM / Full,prec_mean,0.914123
+Outlier Injection,outlier,0.1,scenario_C,SVM / Full,rec_mean,0.992982
+Outlier Injection,outlier,0.1,scenario_C,SVM / PCA,acc_mean,0.936264
+Outlier Injection,outlier,0.1,scenario_C,SVM / PCA,acc_std,0.01615
+Outlier Injection,outlier,0.1,scenario_C,SVM / PCA,auc_mean,0.984623
+Outlier Injection,outlier,0.1,scenario_C,SVM / PCA,prec_mean,0.913643
+Outlier Injection,outlier,0.1,scenario_C,SVM / PCA,rec_mean,0.992982
+Outlier Injection,outlier,0.1,scenario_C,SVM / FS,acc_mean,0.905495
+Outlier Injection,outlier,0.1,scenario_C,SVM / FS,acc_std,0.013187
+Outlier Injection,outlier,0.1,scenario_C,SVM / FS,auc_mean,0.973271
+Outlier Injection,outlier,0.1,scenario_C,SVM / FS,prec_mean,0.913664
+Outlier Injection,outlier,0.1,scenario_C,SVM / FS,rec_mean,0.940351
+Outlier Injection,outlier,0.2,clean,ANN / Full,acc_mean,0.978022
+Outlier Injection,outlier,0.2,clean,ANN / Full,acc_std,0.0
+Outlier Injection,outlier,0.2,clean,ANN / Full,auc_mean,0.991847
+Outlier Injection,outlier,0.2,clean,ANN / Full,prec_mean,0.975914
+Outlier Injection,outlier,0.2,clean,ANN / Full,rec_mean,0.989474
+Outlier Injection,outlier,0.2,clean,ANN / PCA,acc_mean,0.964835
+Outlier Injection,outlier,0.2,clean,ANN / PCA,acc_std,0.012815
+Outlier Injection,outlier,0.2,clean,ANN / PCA,auc_mean,0.98741
+Outlier Injection,outlier,0.2,clean,ANN / PCA,prec_mean,0.968765
+Outlier Injection,outlier,0.2,clean,ANN / PCA,rec_mean,0.975439
+Outlier Injection,outlier,0.2,clean,ANN / FS,acc_mean,0.942857
+Outlier Injection,outlier,0.2,clean,ANN / FS,acc_std,0.018906
+Outlier Injection,outlier,0.2,clean,ANN / FS,auc_mean,0.978122
+Outlier Injection,outlier,0.2,clean,ANN / FS,prec_mean,0.94803
+Outlier Injection,outlier,0.2,clean,ANN / FS,rec_mean,0.961404
+Outlier Injection,outlier,0.2,clean,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.2,clean,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.2,clean,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.2,clean,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.2,clean,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.2,clean,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.2,clean,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.2,clean,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.2,clean,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.2,clean,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.2,clean,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.2,clean,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.2,clean,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.2,clean,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.2,clean,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.2,scenario_A,ANN / Full,acc_mean,0.967033
+Outlier Injection,outlier,0.2,scenario_A,ANN / Full,acc_std,0.0139
+Outlier Injection,outlier,0.2,scenario_A,ANN / Full,auc_mean,0.990815
+Outlier Injection,outlier,0.2,scenario_A,ANN / Full,prec_mean,0.972153
+Outlier Injection,outlier,0.2,scenario_A,ANN / Full,rec_mean,0.975439
+Outlier Injection,outlier,0.2,scenario_A,ANN / PCA,acc_mean,0.971429
+Outlier Injection,outlier,0.2,scenario_A,ANN / PCA,acc_std,0.008791
+Outlier Injection,outlier,0.2,scenario_A,ANN / PCA,auc_mean,0.992363
+Outlier Injection,outlier,0.2,scenario_A,ANN / PCA,prec_mean,0.972453
+Outlier Injection,outlier,0.2,scenario_A,ANN / PCA,rec_mean,0.982456
+Outlier Injection,outlier,0.2,scenario_A,ANN / FS,acc_mean,0.940659
+Outlier Injection,outlier,0.2,scenario_A,ANN / FS,acc_std,0.011207
+Outlier Injection,outlier,0.2,scenario_A,ANN / FS,auc_mean,0.979257
+Outlier Injection,outlier,0.2,scenario_A,ANN / FS,prec_mean,0.948302
+Outlier Injection,outlier,0.2,scenario_A,ANN / FS,rec_mean,0.957895
+Outlier Injection,outlier,0.2,scenario_A,SVM / Full,acc_mean,0.973626
+Outlier Injection,outlier,0.2,scenario_A,SVM / Full,acc_std,0.005383
+Outlier Injection,outlier,0.2,scenario_A,SVM / Full,auc_mean,0.990196
+Outlier Injection,outlier,0.2,scenario_A,SVM / Full,prec_mean,0.972631
+Outlier Injection,outlier,0.2,scenario_A,SVM / Full,rec_mean,0.985965
+Outlier Injection,outlier,0.2,scenario_A,SVM / PCA,acc_mean,0.975824
+Outlier Injection,outlier,0.2,scenario_A,SVM / PCA,acc_std,0.008223
+Outlier Injection,outlier,0.2,scenario_A,SVM / PCA,auc_mean,0.992466
+Outlier Injection,outlier,0.2,scenario_A,SVM / PCA,prec_mean,0.975795
+Outlier Injection,outlier,0.2,scenario_A,SVM / PCA,rec_mean,0.985965
+Outlier Injection,outlier,0.2,scenario_A,SVM / FS,acc_mean,0.938462
+Outlier Injection,outlier,0.2,scenario_A,SVM / FS,acc_std,0.01916
+Outlier Injection,outlier,0.2,scenario_A,SVM / FS,auc_mean,0.975335
+Outlier Injection,outlier,0.2,scenario_A,SVM / FS,prec_mean,0.948331
+Outlier Injection,outlier,0.2,scenario_A,SVM / FS,rec_mean,0.954386
+Outlier Injection,outlier,0.2,scenario_B,ANN / Full,acc_mean,0.83956
+Outlier Injection,outlier,0.2,scenario_B,ANN / Full,acc_std,0.040881
+Outlier Injection,outlier,0.2,scenario_B,ANN / Full,auc_mean,0.831889
+Outlier Injection,outlier,0.2,scenario_B,ANN / Full,prec_mean,0.872322
+Outlier Injection,outlier,0.2,scenario_B,ANN / Full,rec_mean,0.873684
+Outlier Injection,outlier,0.2,scenario_B,ANN / PCA,acc_mean,0.841758
+Outlier Injection,outlier,0.2,scenario_B,ANN / PCA,acc_std,0.022628
+Outlier Injection,outlier,0.2,scenario_B,ANN / PCA,auc_mean,0.842415
+Outlier Injection,outlier,0.2,scenario_B,ANN / PCA,prec_mean,0.866384
+Outlier Injection,outlier,0.2,scenario_B,ANN / PCA,rec_mean,0.887719
+Outlier Injection,outlier,0.2,scenario_B,ANN / FS,acc_mean,0.828571
+Outlier Injection,outlier,0.2,scenario_B,ANN / FS,acc_std,0.028317
+Outlier Injection,outlier,0.2,scenario_B,ANN / FS,auc_mean,0.861713
+Outlier Injection,outlier,0.2,scenario_B,ANN / FS,prec_mean,0.86116
+Outlier Injection,outlier,0.2,scenario_B,ANN / FS,rec_mean,0.870175
+Outlier Injection,outlier,0.2,scenario_B,SVM / Full,acc_mean,0.887912
+Outlier Injection,outlier,0.2,scenario_B,SVM / Full,acc_std,0.029812
+Outlier Injection,outlier,0.2,scenario_B,SVM / Full,auc_mean,0.967802
+Outlier Injection,outlier,0.2,scenario_B,SVM / Full,prec_mean,0.898727
+Outlier Injection,outlier,0.2,scenario_B,SVM / Full,rec_mean,0.929825
+Outlier Injection,outlier,0.2,scenario_B,SVM / PCA,acc_mean,0.894505
+Outlier Injection,outlier,0.2,scenario_B,SVM / PCA,acc_std,0.022628
+Outlier Injection,outlier,0.2,scenario_B,SVM / PCA,auc_mean,0.966099
+Outlier Injection,outlier,0.2,scenario_B,SVM / PCA,prec_mean,0.907096
+Outlier Injection,outlier,0.2,scenario_B,SVM / PCA,rec_mean,0.929825
+Outlier Injection,outlier,0.2,scenario_B,SVM / FS,acc_mean,0.846154
+Outlier Injection,outlier,0.2,scenario_B,SVM / FS,acc_std,0.029487
+Outlier Injection,outlier,0.2,scenario_B,SVM / FS,auc_mean,0.943653
+Outlier Injection,outlier,0.2,scenario_B,SVM / FS,prec_mean,0.898364
+Outlier Injection,outlier,0.2,scenario_B,SVM / FS,rec_mean,0.859649
+Outlier Injection,outlier,0.2,scenario_C,ANN / Full,acc_mean,0.868132
+Outlier Injection,outlier,0.2,scenario_C,ANN / Full,acc_std,0.042843
+Outlier Injection,outlier,0.2,scenario_C,ANN / Full,auc_mean,0.852632
+Outlier Injection,outlier,0.2,scenario_C,ANN / Full,prec_mean,0.893687
+Outlier Injection,outlier,0.2,scenario_C,ANN / Full,rec_mean,0.898246
+Outlier Injection,outlier,0.2,scenario_C,ANN / PCA,acc_mean,0.857143
+Outlier Injection,outlier,0.2,scenario_C,ANN / PCA,acc_std,0.039315
+Outlier Injection,outlier,0.2,scenario_C,ANN / PCA,auc_mean,0.847678
+Outlier Injection,outlier,0.2,scenario_C,ANN / PCA,prec_mean,0.892908
+Outlier Injection,outlier,0.2,scenario_C,ANN / PCA,rec_mean,0.880702
+Outlier Injection,outlier,0.2,scenario_C,ANN / FS,acc_mean,0.835165
+Outlier Injection,outlier,0.2,scenario_C,ANN / FS,acc_std,0.023051
+Outlier Injection,outlier,0.2,scenario_C,ANN / FS,auc_mean,0.863777
+Outlier Injection,outlier,0.2,scenario_C,ANN / FS,prec_mean,0.860166
+Outlier Injection,outlier,0.2,scenario_C,ANN / FS,rec_mean,0.880702
+Outlier Injection,outlier,0.2,scenario_C,SVM / Full,acc_mean,0.887912
+Outlier Injection,outlier,0.2,scenario_C,SVM / Full,acc_std,0.029812
+Outlier Injection,outlier,0.2,scenario_C,SVM / Full,auc_mean,0.967905
+Outlier Injection,outlier,0.2,scenario_C,SVM / Full,prec_mean,0.898727
+Outlier Injection,outlier,0.2,scenario_C,SVM / Full,rec_mean,0.929825
+Outlier Injection,outlier,0.2,scenario_C,SVM / PCA,acc_mean,0.894505
+Outlier Injection,outlier,0.2,scenario_C,SVM / PCA,acc_std,0.022628
+Outlier Injection,outlier,0.2,scenario_C,SVM / PCA,auc_mean,0.966099
+Outlier Injection,outlier,0.2,scenario_C,SVM / PCA,prec_mean,0.907096
+Outlier Injection,outlier,0.2,scenario_C,SVM / PCA,rec_mean,0.929825
+Outlier Injection,outlier,0.2,scenario_C,SVM / FS,acc_mean,0.846154
+Outlier Injection,outlier,0.2,scenario_C,SVM / FS,acc_std,0.029487
+Outlier Injection,outlier,0.2,scenario_C,SVM / FS,auc_mean,0.943756
+Outlier Injection,outlier,0.2,scenario_C,SVM / FS,prec_mean,0.898364
+Outlier Injection,outlier,0.2,scenario_C,SVM / FS,rec_mean,0.859649
+Missing Values (MCAR),missing,0.0,clean,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.0,clean,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.0,clean,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.0,clean,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.0,clean,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.0,clean,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.0,clean,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.0,clean,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.0,clean,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.0,clean,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.0,clean,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.0,clean,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.0,clean,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.0,clean,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.0,clean,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.0,clean,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.0,clean,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.0,clean,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.0,clean,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.0,clean,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,clean,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.0,clean,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.0,clean,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.0,clean,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.0,clean,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,clean,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.0,clean,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.0,clean,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.0,clean,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.0,clean,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.0,scenario_A,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.0,scenario_A,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.0,scenario_B,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.0,scenario_B,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.0,scenario_C,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.0,scenario_C,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.1,clean,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.1,clean,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.1,clean,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.1,clean,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.1,clean,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.1,clean,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.1,clean,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.1,clean,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.1,clean,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.1,clean,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.1,clean,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.1,clean,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.1,clean,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.1,clean,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.1,clean,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.1,clean,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.1,clean,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.1,clean,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.1,clean,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.1,clean,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,clean,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.1,clean,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.1,clean,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.1,clean,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.1,clean,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,clean,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.1,clean,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.1,clean,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.1,clean,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.1,clean,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / Full,acc_mean,0.964835
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / Full,acc_std,0.017582
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / Full,auc_mean,0.98968
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / Full,prec_mean,0.96549
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / Full,rec_mean,0.978947
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / PCA,acc_mean,0.98022
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / PCA,auc_mean,0.989783
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / PCA,prec_mean,0.975918
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / PCA,rec_mean,0.992982
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / FS,acc_std,0.022413
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / FS,auc_mean,0.980392
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / FS,prec_mean,0.945095
+Missing Values (MCAR),missing,0.1,scenario_A,ANN / FS,rec_mean,0.964912
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.1,scenario_A,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / Full,acc_mean,0.964835
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / Full,acc_std,0.023466
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / Full,auc_mean,0.98452
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / Full,prec_mean,0.962109
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / Full,rec_mean,0.982456
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / PCA,acc_mean,0.967033
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / PCA,acc_std,0.00695
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / PCA,auc_mean,0.986894
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / PCA,prec_mean,0.969006
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / PCA,rec_mean,0.978947
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / FS,acc_std,0.01615
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / FS,auc_mean,0.98225
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / FS,prec_mean,0.954122
+Missing Values (MCAR),missing,0.1,scenario_B,ANN / FS,rec_mean,0.94386
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / Full,acc_mean,0.982418
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / Full,acc_std,0.013187
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / Full,auc_mean,0.989474
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / Full,prec_mean,0.986207
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / PCA,acc_mean,0.982418
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / PCA,acc_std,0.013187
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / PCA,auc_mean,0.990196
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / PCA,prec_mean,0.986207
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / FS,acc_std,0.012815
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / FS,auc_mean,0.979979
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / FS,prec_mean,0.948259
+Missing Values (MCAR),missing,0.1,scenario_B,SVM / FS,rec_mean,0.950877
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / Full,acc_mean,0.967033
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / Full,acc_std,0.0139
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / Full,auc_mean,0.990506
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / Full,prec_mean,0.972655
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / Full,rec_mean,0.975439
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / PCA,acc_mean,0.956044
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / PCA,acc_std,0.012038
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / PCA,auc_mean,0.984211
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / PCA,prec_mean,0.952776
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / PCA,rec_mean,0.978947
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / FS,acc_std,0.012815
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / FS,auc_mean,0.982043
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / FS,prec_mean,0.944692
+Missing Values (MCAR),missing,0.1,scenario_C,ANN / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / Full,acc_mean,0.982418
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / Full,acc_std,0.013187
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / Full,auc_mean,0.989474
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / Full,prec_mean,0.986207
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / PCA,acc_mean,0.982418
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / PCA,acc_std,0.013187
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / PCA,auc_mean,0.990196
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / PCA,prec_mean,0.986207
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / FS,acc_std,0.012815
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / FS,auc_mean,0.979979
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / FS,prec_mean,0.948259
+Missing Values (MCAR),missing,0.1,scenario_C,SVM / FS,rec_mean,0.950877
+Missing Values (MCAR),missing,0.2,clean,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.2,clean,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.2,clean,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.2,clean,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.2,clean,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.2,clean,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.2,clean,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.2,clean,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.2,clean,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.2,clean,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.2,clean,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.2,clean,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.2,clean,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.2,clean,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.2,clean,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.2,clean,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.2,clean,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.2,clean,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.2,clean,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.2,clean,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.2,clean,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.2,clean,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.2,clean,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.2,clean,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.2,clean,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.2,clean,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.2,clean,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.2,clean,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.2,clean,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.2,clean,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / Full,acc_mean,0.975824
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / Full,acc_std,0.004396
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / Full,auc_mean,0.990506
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / Full,prec_mean,0.975852
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / PCA,acc_mean,0.98022
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / PCA,acc_std,0.004396
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / PCA,auc_mean,0.99195
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / PCA,prec_mean,0.972704
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / PCA,rec_mean,0.996491
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / FS,acc_mean,0.945055
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / FS,acc_std,0.0139
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / FS,auc_mean,0.978844
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / FS,prec_mean,0.951647
+Missing Values (MCAR),missing,0.2,scenario_A,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.2,scenario_A,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / Full,acc_std,0.011207
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / Full,auc_mean,0.988648
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / Full,prec_mean,0.975898
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / Full,rec_mean,0.982456
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / PCA,acc_mean,0.967033
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / PCA,acc_std,0.00695
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / PCA,auc_mean,0.986171
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / PCA,prec_mean,0.965735
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / PCA,rec_mean,0.982456
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / FS,acc_std,0.012815
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / FS,auc_mean,0.980289
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / FS,prec_mean,0.947604
+Missing Values (MCAR),missing,0.2,scenario_B,ANN / FS,rec_mean,0.950877
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / Full,acc_mean,0.964835
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / Full,acc_std,0.012815
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / Full,auc_mean,0.989783
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / Full,prec_mean,0.96899
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / Full,rec_mean,0.975439
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / PCA,acc_mean,0.973626
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / PCA,acc_std,0.008791
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / PCA,auc_mean,0.989267
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / PCA,prec_mean,0.975787
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / PCA,rec_mean,0.982456
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / FS,acc_std,0.022413
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / FS,auc_mean,0.980495
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / FS,prec_mean,0.948342
+Missing Values (MCAR),missing,0.2,scenario_B,SVM / FS,rec_mean,0.950877
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / Full,acc_mean,0.969231
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / Full,acc_std,0.017582
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / Full,auc_mean,0.987926
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / Full,prec_mean,0.972324
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / Full,rec_mean,0.978947
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / PCA,acc_mean,0.962637
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / PCA,acc_std,0.014906
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / PCA,auc_mean,0.985552
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / PCA,prec_mean,0.955868
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / FS,acc_mean,0.931868
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / FS,acc_std,0.024474
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / FS,auc_mean,0.981321
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / FS,prec_mean,0.954517
+Missing Values (MCAR),missing,0.2,scenario_C,ANN / FS,rec_mean,0.936842
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / Full,acc_mean,0.964835
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / Full,acc_std,0.012815
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / Full,auc_mean,0.989783
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / Full,prec_mean,0.96899
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / Full,rec_mean,0.975439
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / PCA,acc_mean,0.973626
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / PCA,acc_std,0.008791
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / PCA,auc_mean,0.989267
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / PCA,prec_mean,0.975787
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / PCA,rec_mean,0.982456
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / FS,acc_mean,0.936264
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / FS,acc_std,0.022413
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / FS,auc_mean,0.980495
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / FS,prec_mean,0.948342
+Missing Values (MCAR),missing,0.2,scenario_C,SVM / FS,rec_mean,0.950877
+Missing Values (MCAR),missing,0.3,clean,ANN / Full,acc_mean,0.978022
+Missing Values (MCAR),missing,0.3,clean,ANN / Full,acc_std,0.0
+Missing Values (MCAR),missing,0.3,clean,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.3,clean,ANN / Full,prec_mean,0.975914
+Missing Values (MCAR),missing,0.3,clean,ANN / Full,rec_mean,0.989474
+Missing Values (MCAR),missing,0.3,clean,ANN / PCA,acc_mean,0.964835
+Missing Values (MCAR),missing,0.3,clean,ANN / PCA,acc_std,0.012815
+Missing Values (MCAR),missing,0.3,clean,ANN / PCA,auc_mean,0.98741
+Missing Values (MCAR),missing,0.3,clean,ANN / PCA,prec_mean,0.968765
+Missing Values (MCAR),missing,0.3,clean,ANN / PCA,rec_mean,0.975439
+Missing Values (MCAR),missing,0.3,clean,ANN / FS,acc_mean,0.942857
+Missing Values (MCAR),missing,0.3,clean,ANN / FS,acc_std,0.018906
+Missing Values (MCAR),missing,0.3,clean,ANN / FS,auc_mean,0.978122
+Missing Values (MCAR),missing,0.3,clean,ANN / FS,prec_mean,0.94803
+Missing Values (MCAR),missing,0.3,clean,ANN / FS,rec_mean,0.961404
+Missing Values (MCAR),missing,0.3,clean,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.3,clean,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.3,clean,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.3,clean,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.3,clean,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.3,clean,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.3,clean,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.3,clean,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.3,clean,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.3,clean,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.3,clean,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.3,clean,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.3,clean,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.3,clean,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.3,clean,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / Full,acc_mean,0.969231
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / Full,acc_std,0.008223
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / Full,auc_mean,0.991847
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / Full,prec_mean,0.97228
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / Full,rec_mean,0.978947
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / PCA,acc_mean,0.973626
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / PCA,acc_std,0.016447
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / PCA,auc_mean,0.991538
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / PCA,prec_mean,0.972284
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / FS,acc_mean,0.947253
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / FS,acc_std,0.01615
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / FS,auc_mean,0.98194
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / FS,prec_mean,0.951643
+Missing Values (MCAR),missing,0.3,scenario_A,ANN / FS,rec_mean,0.964912
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / Full,acc_mean,0.973626
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / Full,acc_std,0.005383
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / Full,auc_mean,0.990196
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / Full,prec_mean,0.972631
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / Full,rec_mean,0.985965
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / PCA,acc_mean,0.975824
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / PCA,acc_std,0.008223
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / PCA,auc_mean,0.992466
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / PCA,prec_mean,0.975795
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / PCA,rec_mean,0.985965
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / FS,acc_mean,0.938462
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / FS,acc_std,0.01916
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / FS,auc_mean,0.975335
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / FS,prec_mean,0.948331
+Missing Values (MCAR),missing,0.3,scenario_A,SVM / FS,rec_mean,0.954386
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / Full,acc_mean,0.958242
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / Full,acc_std,0.017582
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / Full,auc_mean,0.988854
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / Full,prec_mean,0.974931
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / Full,rec_mean,0.957895
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / PCA,acc_mean,0.938462
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / PCA,acc_std,0.008791
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / PCA,auc_mean,0.978535
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / PCA,prec_mean,0.942996
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / PCA,rec_mean,0.961404
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / FS,acc_mean,0.931868
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / FS,acc_std,0.01615
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / FS,auc_mean,0.976471
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / FS,prec_mean,0.944218
+Missing Values (MCAR),missing,0.3,scenario_B,ANN / FS,rec_mean,0.947368
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / Full,acc_mean,0.949451
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / Full,acc_std,0.008791
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / Full,auc_mean,0.988132
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / Full,prec_mean,0.971699
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / Full,rec_mean,0.947368
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / PCA,acc_mean,0.951648
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / PCA,acc_std,0.008791
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / PCA,auc_mean,0.989886
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / PCA,prec_mean,0.965234
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / PCA,rec_mean,0.957895
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / FS,acc_mean,0.923077
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / FS,acc_std,0.018388
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / FS,auc_mean,0.976987
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / FS,prec_mean,0.934318
+Missing Values (MCAR),missing,0.3,scenario_B,SVM / FS,rec_mean,0.94386
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / Full,acc_mean,0.942857
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / Full,acc_std,0.018906
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / Full,auc_mean,0.984933
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / Full,prec_mean,0.967642
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / Full,rec_mean,0.940351
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / PCA,acc_mean,0.949451
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / PCA,acc_std,0.014906
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / PCA,auc_mean,0.986378
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / PCA,prec_mean,0.958594
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / PCA,rec_mean,0.961404
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / FS,acc_mean,0.923077
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / FS,acc_std,0.015541
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / FS,auc_mean,0.977503
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / FS,prec_mean,0.94034
+Missing Values (MCAR),missing,0.3,scenario_C,ANN / FS,rec_mean,0.936842
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / Full,acc_mean,0.949451
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / Full,acc_std,0.008791
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / Full,auc_mean,0.988132
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / Full,prec_mean,0.971699
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / Full,rec_mean,0.947368
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / PCA,acc_mean,0.951648
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / PCA,acc_std,0.008791
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / PCA,auc_mean,0.989886
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / PCA,prec_mean,0.965234
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / PCA,rec_mean,0.957895
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / FS,acc_mean,0.923077
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / FS,acc_std,0.018388
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / FS,auc_mean,0.976987
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / FS,prec_mean,0.934318
+Missing Values (MCAR),missing,0.3,scenario_C,SVM / FS,rec_mean,0.94386
+Label Flipping,label,0.0,clean,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.0,clean,ANN / Full,acc_std,0.0
+Label Flipping,label,0.0,clean,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.0,clean,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.0,clean,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.0,clean,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.0,clean,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.0,clean,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.0,clean,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.0,clean,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.0,clean,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.0,clean,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.0,clean,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.0,clean,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.0,clean,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.0,clean,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.0,clean,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.0,clean,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.0,clean,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.0,clean,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.0,clean,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.0,clean,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.0,clean,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.0,clean,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.0,clean,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.0,clean,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.0,clean,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.0,clean,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.0,clean,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.0,clean,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.0,scenario_A,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.0,scenario_A,ANN / Full,acc_std,0.0
+Label Flipping,label,0.0,scenario_A,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.0,scenario_A,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.0,scenario_A,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.0,scenario_A,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.0,scenario_A,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.0,scenario_A,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.0,scenario_A,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.0,scenario_A,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.0,scenario_A,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.0,scenario_A,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.0,scenario_A,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.0,scenario_A,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.0,scenario_A,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.0,scenario_A,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.0,scenario_A,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.0,scenario_A,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.0,scenario_A,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.0,scenario_A,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.0,scenario_A,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.0,scenario_A,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.0,scenario_A,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.0,scenario_A,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.0,scenario_A,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.0,scenario_A,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.0,scenario_A,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.0,scenario_A,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.0,scenario_A,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.0,scenario_A,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.0,scenario_B,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.0,scenario_B,ANN / Full,acc_std,0.0
+Label Flipping,label,0.0,scenario_B,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.0,scenario_B,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.0,scenario_B,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.0,scenario_B,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.0,scenario_B,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.0,scenario_B,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.0,scenario_B,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.0,scenario_B,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.0,scenario_B,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.0,scenario_B,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.0,scenario_B,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.0,scenario_B,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.0,scenario_B,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.0,scenario_B,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.0,scenario_B,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.0,scenario_B,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.0,scenario_B,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.0,scenario_B,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.0,scenario_B,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.0,scenario_B,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.0,scenario_B,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.0,scenario_B,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.0,scenario_B,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.0,scenario_B,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.0,scenario_B,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.0,scenario_B,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.0,scenario_B,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.0,scenario_B,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.0,scenario_C,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.0,scenario_C,ANN / Full,acc_std,0.0
+Label Flipping,label,0.0,scenario_C,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.0,scenario_C,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.0,scenario_C,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.0,scenario_C,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.0,scenario_C,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.0,scenario_C,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.0,scenario_C,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.0,scenario_C,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.0,scenario_C,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.0,scenario_C,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.0,scenario_C,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.0,scenario_C,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.0,scenario_C,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.0,scenario_C,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.0,scenario_C,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.0,scenario_C,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.0,scenario_C,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.0,scenario_C,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.0,scenario_C,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.0,scenario_C,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.0,scenario_C,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.0,scenario_C,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.0,scenario_C,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.0,scenario_C,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.0,scenario_C,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.0,scenario_C,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.0,scenario_C,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.0,scenario_C,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.05,clean,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.05,clean,ANN / Full,acc_std,0.0
+Label Flipping,label,0.05,clean,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.05,clean,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.05,clean,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.05,clean,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.05,clean,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.05,clean,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.05,clean,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.05,clean,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.05,clean,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.05,clean,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.05,clean,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.05,clean,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.05,clean,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.05,clean,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.05,clean,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.05,clean,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.05,clean,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.05,clean,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.05,clean,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.05,clean,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.05,clean,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.05,clean,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.05,clean,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.05,clean,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.05,clean,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.05,clean,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.05,clean,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.05,clean,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.05,scenario_A,ANN / Full,acc_mean,0.973626
+Label Flipping,label,0.05,scenario_A,ANN / Full,acc_std,0.011207
+Label Flipping,label,0.05,scenario_A,ANN / Full,auc_mean,0.993189
+Label Flipping,label,0.05,scenario_A,ANN / Full,prec_mean,0.979055
+Label Flipping,label,0.05,scenario_A,ANN / Full,rec_mean,0.978947
+Label Flipping,label,0.05,scenario_A,ANN / PCA,acc_mean,0.971429
+Label Flipping,label,0.05,scenario_A,ANN / PCA,acc_std,0.005383
+Label Flipping,label,0.05,scenario_A,ANN / PCA,auc_mean,0.991744
+Label Flipping,label,0.05,scenario_A,ANN / PCA,prec_mean,0.965918
+Label Flipping,label,0.05,scenario_A,ANN / PCA,rec_mean,0.989474
+Label Flipping,label,0.05,scenario_A,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.05,scenario_A,ANN / FS,acc_std,0.017582
+Label Flipping,label,0.05,scenario_A,ANN / FS,auc_mean,0.981115
+Label Flipping,label,0.05,scenario_A,ANN / FS,prec_mean,0.954559
+Label Flipping,label,0.05,scenario_A,ANN / FS,rec_mean,0.954386
+Label Flipping,label,0.05,scenario_A,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.05,scenario_A,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.05,scenario_A,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.05,scenario_A,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.05,scenario_A,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.05,scenario_A,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.05,scenario_A,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.05,scenario_A,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.05,scenario_A,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.05,scenario_A,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.05,scenario_A,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.05,scenario_A,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.05,scenario_A,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.05,scenario_A,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.05,scenario_A,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.05,scenario_B,ANN / Full,acc_mean,0.936264
+Label Flipping,label,0.05,scenario_B,ANN / Full,acc_std,0.014579
+Label Flipping,label,0.05,scenario_B,ANN / Full,auc_mean,0.956429
+Label Flipping,label,0.05,scenario_B,ANN / Full,prec_mean,0.950284
+Label Flipping,label,0.05,scenario_B,ANN / Full,rec_mean,0.946429
+Label Flipping,label,0.05,scenario_B,ANN / PCA,acc_mean,0.940659
+Label Flipping,label,0.05,scenario_B,ANN / PCA,acc_std,0.027451
+Label Flipping,label,0.05,scenario_B,ANN / PCA,auc_mean,0.955408
+Label Flipping,label,0.05,scenario_B,ANN / PCA,prec_mean,0.953528
+Label Flipping,label,0.05,scenario_B,ANN / PCA,rec_mean,0.95
+Label Flipping,label,0.05,scenario_B,ANN / FS,acc_mean,0.881319
+Label Flipping,label,0.05,scenario_B,ANN / FS,acc_std,0.025441
+Label Flipping,label,0.05,scenario_B,ANN / FS,auc_mean,0.942551
+Label Flipping,label,0.05,scenario_B,ANN / FS,prec_mean,0.93135
+Label Flipping,label,0.05,scenario_B,ANN / FS,rec_mean,0.871429
+Label Flipping,label,0.05,scenario_B,SVM / Full,acc_mean,0.942857
+Label Flipping,label,0.05,scenario_B,SVM / Full,acc_std,0.018906
+Label Flipping,label,0.05,scenario_B,SVM / Full,auc_mean,0.96551
+Label Flipping,label,0.05,scenario_B,SVM / Full,prec_mean,0.957006
+Label Flipping,label,0.05,scenario_B,SVM / Full,rec_mean,0.95
+Label Flipping,label,0.05,scenario_B,SVM / PCA,acc_mean,0.947253
+Label Flipping,label,0.05,scenario_B,SVM / PCA,acc_std,0.021308
+Label Flipping,label,0.05,scenario_B,SVM / PCA,auc_mean,0.966429
+Label Flipping,label,0.05,scenario_B,SVM / PCA,prec_mean,0.954317
+Label Flipping,label,0.05,scenario_B,SVM / PCA,rec_mean,0.960714
+Label Flipping,label,0.05,scenario_B,SVM / FS,acc_mean,0.883516
+Label Flipping,label,0.05,scenario_B,SVM / FS,acc_std,0.021534
+Label Flipping,label,0.05,scenario_B,SVM / FS,auc_mean,0.954082
+Label Flipping,label,0.05,scenario_B,SVM / FS,prec_mean,0.935715
+Label Flipping,label,0.05,scenario_B,SVM / FS,rec_mean,0.871429
+Label Flipping,label,0.05,scenario_C,ANN / Full,acc_mean,0.938462
+Label Flipping,label,0.05,scenario_C,ANN / Full,acc_std,0.014906
+Label Flipping,label,0.05,scenario_C,ANN / Full,auc_mean,0.952347
+Label Flipping,label,0.05,scenario_C,ANN / Full,prec_mean,0.96077
+Label Flipping,label,0.05,scenario_C,ANN / Full,rec_mean,0.939286
+Label Flipping,label,0.05,scenario_C,ANN / PCA,acc_mean,0.92967
+Label Flipping,label,0.05,scenario_C,ANN / PCA,acc_std,0.026556
+Label Flipping,label,0.05,scenario_C,ANN / PCA,auc_mean,0.949796
+Label Flipping,label,0.05,scenario_C,ANN / PCA,prec_mean,0.933487
+Label Flipping,label,0.05,scenario_C,ANN / PCA,rec_mean,0.953571
+Label Flipping,label,0.05,scenario_C,ANN / FS,acc_mean,0.881319
+Label Flipping,label,0.05,scenario_C,ANN / FS,acc_std,0.030612
+Label Flipping,label,0.05,scenario_C,ANN / FS,auc_mean,0.938673
+Label Flipping,label,0.05,scenario_C,ANN / FS,prec_mean,0.931769
+Label Flipping,label,0.05,scenario_C,ANN / FS,rec_mean,0.871429
+Label Flipping,label,0.05,scenario_C,SVM / Full,acc_mean,0.942857
+Label Flipping,label,0.05,scenario_C,SVM / Full,acc_std,0.018906
+Label Flipping,label,0.05,scenario_C,SVM / Full,auc_mean,0.96551
+Label Flipping,label,0.05,scenario_C,SVM / Full,prec_mean,0.957006
+Label Flipping,label,0.05,scenario_C,SVM / Full,rec_mean,0.95
+Label Flipping,label,0.05,scenario_C,SVM / PCA,acc_mean,0.947253
+Label Flipping,label,0.05,scenario_C,SVM / PCA,acc_std,0.021308
+Label Flipping,label,0.05,scenario_C,SVM / PCA,auc_mean,0.966429
+Label Flipping,label,0.05,scenario_C,SVM / PCA,prec_mean,0.954317
+Label Flipping,label,0.05,scenario_C,SVM / PCA,rec_mean,0.960714
+Label Flipping,label,0.05,scenario_C,SVM / FS,acc_mean,0.883516
+Label Flipping,label,0.05,scenario_C,SVM / FS,acc_std,0.021534
+Label Flipping,label,0.05,scenario_C,SVM / FS,auc_mean,0.954082
+Label Flipping,label,0.05,scenario_C,SVM / FS,prec_mean,0.935715
+Label Flipping,label,0.05,scenario_C,SVM / FS,rec_mean,0.871429
+Label Flipping,label,0.1,clean,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.1,clean,ANN / Full,acc_std,0.0
+Label Flipping,label,0.1,clean,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.1,clean,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.1,clean,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.1,clean,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.1,clean,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.1,clean,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.1,clean,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.1,clean,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.1,clean,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.1,clean,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.1,clean,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.1,clean,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.1,clean,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.1,clean,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.1,clean,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.1,clean,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.1,clean,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.1,clean,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.1,clean,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.1,clean,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.1,clean,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.1,clean,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.1,clean,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.1,clean,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.1,clean,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.1,clean,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.1,clean,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.1,clean,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.1,scenario_A,ANN / Full,acc_mean,0.969231
+Label Flipping,label,0.1,scenario_A,ANN / Full,acc_std,0.012815
+Label Flipping,label,0.1,scenario_A,ANN / Full,auc_mean,0.991538
+Label Flipping,label,0.1,scenario_A,ANN / Full,prec_mean,0.972166
+Label Flipping,label,0.1,scenario_A,ANN / Full,rec_mean,0.978947
+Label Flipping,label,0.1,scenario_A,ANN / PCA,acc_mean,0.969231
+Label Flipping,label,0.1,scenario_A,ANN / PCA,acc_std,0.008223
+Label Flipping,label,0.1,scenario_A,ANN / PCA,auc_mean,0.991641
+Label Flipping,label,0.1,scenario_A,ANN / PCA,prec_mean,0.965908
+Label Flipping,label,0.1,scenario_A,ANN / PCA,rec_mean,0.985965
+Label Flipping,label,0.1,scenario_A,ANN / FS,acc_mean,0.940659
+Label Flipping,label,0.1,scenario_A,ANN / FS,acc_std,0.01916
+Label Flipping,label,0.1,scenario_A,ANN / FS,auc_mean,0.981734
+Label Flipping,label,0.1,scenario_A,ANN / FS,prec_mean,0.951091
+Label Flipping,label,0.1,scenario_A,ANN / FS,rec_mean,0.954386
+Label Flipping,label,0.1,scenario_A,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.1,scenario_A,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.1,scenario_A,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.1,scenario_A,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.1,scenario_A,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.1,scenario_A,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.1,scenario_A,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.1,scenario_A,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.1,scenario_A,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.1,scenario_A,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.1,scenario_A,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.1,scenario_A,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.1,scenario_A,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.1,scenario_A,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.1,scenario_A,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.1,scenario_B,ANN / Full,acc_mean,0.874725
+Label Flipping,label,0.1,scenario_B,ANN / Full,acc_std,0.022628
+Label Flipping,label,0.1,scenario_B,ANN / Full,auc_mean,0.899697
+Label Flipping,label,0.1,scenario_B,ANN / Full,prec_mean,0.871482
+Label Flipping,label,0.1,scenario_B,ANN / Full,rec_mean,0.930909
+Label Flipping,label,0.1,scenario_B,ANN / PCA,acc_mean,0.881319
+Label Flipping,label,0.1,scenario_B,ANN / PCA,acc_std,0.022413
+Label Flipping,label,0.1,scenario_B,ANN / PCA,auc_mean,0.905354
+Label Flipping,label,0.1,scenario_B,ANN / PCA,prec_mean,0.881265
+Label Flipping,label,0.1,scenario_B,ANN / PCA,rec_mean,0.930909
+Label Flipping,label,0.1,scenario_B,ANN / FS,acc_mean,0.868132
+Label Flipping,label,0.1,scenario_B,ANN / FS,acc_std,0.012038
+Label Flipping,label,0.1,scenario_B,ANN / FS,auc_mean,0.899192
+Label Flipping,label,0.1,scenario_B,ANN / FS,prec_mean,0.877552
+Label Flipping,label,0.1,scenario_B,ANN / FS,rec_mean,0.909091
+Label Flipping,label,0.1,scenario_B,SVM / Full,acc_mean,0.892308
+Label Flipping,label,0.1,scenario_B,SVM / Full,acc_std,0.008223
+Label Flipping,label,0.1,scenario_B,SVM / Full,auc_mean,0.909343
+Label Flipping,label,0.1,scenario_B,SVM / Full,prec_mean,0.892761
+Label Flipping,label,0.1,scenario_B,SVM / Full,rec_mean,0.934545
+Label Flipping,label,0.1,scenario_B,SVM / PCA,acc_mean,0.894505
+Label Flipping,label,0.1,scenario_B,SVM / PCA,acc_std,0.023671
+Label Flipping,label,0.1,scenario_B,SVM / PCA,auc_mean,0.907778
+Label Flipping,label,0.1,scenario_B,SVM / PCA,prec_mean,0.898386
+Label Flipping,label,0.1,scenario_B,SVM / PCA,rec_mean,0.930909
+Label Flipping,label,0.1,scenario_B,SVM / FS,acc_mean,0.852747
+Label Flipping,label,0.1,scenario_B,SVM / FS,acc_std,0.021534
+Label Flipping,label,0.1,scenario_B,SVM / FS,auc_mean,0.892626
+Label Flipping,label,0.1,scenario_B,SVM / FS,prec_mean,0.855005
+Label Flipping,label,0.1,scenario_B,SVM / FS,rec_mean,0.912727
+Label Flipping,label,0.1,scenario_C,ANN / Full,acc_mean,0.872527
+Label Flipping,label,0.1,scenario_C,ANN / Full,acc_std,0.028317
+Label Flipping,label,0.1,scenario_C,ANN / Full,auc_mean,0.905859
+Label Flipping,label,0.1,scenario_C,ANN / Full,prec_mean,0.875191
+Label Flipping,label,0.1,scenario_C,ANN / Full,rec_mean,0.923636
+Label Flipping,label,0.1,scenario_C,ANN / PCA,acc_mean,0.879121
+Label Flipping,label,0.1,scenario_C,ANN / PCA,acc_std,0.0139
+Label Flipping,label,0.1,scenario_C,ANN / PCA,auc_mean,0.906263
+Label Flipping,label,0.1,scenario_C,ANN / PCA,prec_mean,0.880268
+Label Flipping,label,0.1,scenario_C,ANN / PCA,rec_mean,0.927273
+Label Flipping,label,0.1,scenario_C,ANN / FS,acc_mean,0.87033
+Label Flipping,label,0.1,scenario_C,ANN / FS,acc_std,0.01615
+Label Flipping,label,0.1,scenario_C,ANN / FS,auc_mean,0.900606
+Label Flipping,label,0.1,scenario_C,ANN / FS,prec_mean,0.872877
+Label Flipping,label,0.1,scenario_C,ANN / FS,rec_mean,0.92
+Label Flipping,label,0.1,scenario_C,SVM / Full,acc_mean,0.892308
+Label Flipping,label,0.1,scenario_C,SVM / Full,acc_std,0.008223
+Label Flipping,label,0.1,scenario_C,SVM / Full,auc_mean,0.909293
+Label Flipping,label,0.1,scenario_C,SVM / Full,prec_mean,0.892761
+Label Flipping,label,0.1,scenario_C,SVM / Full,rec_mean,0.934545
+Label Flipping,label,0.1,scenario_C,SVM / PCA,acc_mean,0.894505
+Label Flipping,label,0.1,scenario_C,SVM / PCA,acc_std,0.023671
+Label Flipping,label,0.1,scenario_C,SVM / PCA,auc_mean,0.907778
+Label Flipping,label,0.1,scenario_C,SVM / PCA,prec_mean,0.898386
+Label Flipping,label,0.1,scenario_C,SVM / PCA,rec_mean,0.930909
+Label Flipping,label,0.1,scenario_C,SVM / FS,acc_mean,0.852747
+Label Flipping,label,0.1,scenario_C,SVM / FS,acc_std,0.021534
+Label Flipping,label,0.1,scenario_C,SVM / FS,auc_mean,0.892626
+Label Flipping,label,0.1,scenario_C,SVM / FS,prec_mean,0.855005
+Label Flipping,label,0.1,scenario_C,SVM / FS,rec_mean,0.912727
+Label Flipping,label,0.2,clean,ANN / Full,acc_mean,0.978022
+Label Flipping,label,0.2,clean,ANN / Full,acc_std,0.0
+Label Flipping,label,0.2,clean,ANN / Full,auc_mean,0.991847
+Label Flipping,label,0.2,clean,ANN / Full,prec_mean,0.975914
+Label Flipping,label,0.2,clean,ANN / Full,rec_mean,0.989474
+Label Flipping,label,0.2,clean,ANN / PCA,acc_mean,0.964835
+Label Flipping,label,0.2,clean,ANN / PCA,acc_std,0.012815
+Label Flipping,label,0.2,clean,ANN / PCA,auc_mean,0.98741
+Label Flipping,label,0.2,clean,ANN / PCA,prec_mean,0.968765
+Label Flipping,label,0.2,clean,ANN / PCA,rec_mean,0.975439
+Label Flipping,label,0.2,clean,ANN / FS,acc_mean,0.942857
+Label Flipping,label,0.2,clean,ANN / FS,acc_std,0.018906
+Label Flipping,label,0.2,clean,ANN / FS,auc_mean,0.978122
+Label Flipping,label,0.2,clean,ANN / FS,prec_mean,0.94803
+Label Flipping,label,0.2,clean,ANN / FS,rec_mean,0.961404
+Label Flipping,label,0.2,clean,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.2,clean,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.2,clean,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.2,clean,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.2,clean,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.2,clean,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.2,clean,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.2,clean,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.2,clean,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.2,clean,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.2,clean,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.2,clean,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.2,clean,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.2,clean,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.2,clean,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.2,scenario_A,ANN / Full,acc_mean,0.969231
+Label Flipping,label,0.2,scenario_A,ANN / Full,acc_std,0.008223
+Label Flipping,label,0.2,scenario_A,ANN / Full,auc_mean,0.993292
+Label Flipping,label,0.2,scenario_A,ANN / Full,prec_mean,0.972226
+Label Flipping,label,0.2,scenario_A,ANN / Full,rec_mean,0.978947
+Label Flipping,label,0.2,scenario_A,ANN / PCA,acc_mean,0.967033
+Label Flipping,label,0.2,scenario_A,ANN / PCA,acc_std,0.00695
+Label Flipping,label,0.2,scenario_A,ANN / PCA,auc_mean,0.991641
+Label Flipping,label,0.2,scenario_A,ANN / PCA,prec_mean,0.962741
+Label Flipping,label,0.2,scenario_A,ANN / PCA,rec_mean,0.985965
+Label Flipping,label,0.2,scenario_A,ANN / FS,acc_mean,0.940659
+Label Flipping,label,0.2,scenario_A,ANN / FS,acc_std,0.014906
+Label Flipping,label,0.2,scenario_A,ANN / FS,auc_mean,0.978225
+Label Flipping,label,0.2,scenario_A,ANN / FS,prec_mean,0.951113
+Label Flipping,label,0.2,scenario_A,ANN / FS,rec_mean,0.954386
+Label Flipping,label,0.2,scenario_A,SVM / Full,acc_mean,0.973626
+Label Flipping,label,0.2,scenario_A,SVM / Full,acc_std,0.005383
+Label Flipping,label,0.2,scenario_A,SVM / Full,auc_mean,0.990196
+Label Flipping,label,0.2,scenario_A,SVM / Full,prec_mean,0.972631
+Label Flipping,label,0.2,scenario_A,SVM / Full,rec_mean,0.985965
+Label Flipping,label,0.2,scenario_A,SVM / PCA,acc_mean,0.975824
+Label Flipping,label,0.2,scenario_A,SVM / PCA,acc_std,0.008223
+Label Flipping,label,0.2,scenario_A,SVM / PCA,auc_mean,0.992466
+Label Flipping,label,0.2,scenario_A,SVM / PCA,prec_mean,0.975795
+Label Flipping,label,0.2,scenario_A,SVM / PCA,rec_mean,0.985965
+Label Flipping,label,0.2,scenario_A,SVM / FS,acc_mean,0.938462
+Label Flipping,label,0.2,scenario_A,SVM / FS,acc_std,0.01916
+Label Flipping,label,0.2,scenario_A,SVM / FS,auc_mean,0.975335
+Label Flipping,label,0.2,scenario_A,SVM / FS,prec_mean,0.948331
+Label Flipping,label,0.2,scenario_A,SVM / FS,rec_mean,0.954386
+Label Flipping,label,0.2,scenario_B,ANN / Full,acc_mean,0.782418
+Label Flipping,label,0.2,scenario_B,ANN / Full,acc_std,0.057899
+Label Flipping,label,0.2,scenario_B,ANN / Full,auc_mean,0.786768
+Label Flipping,label,0.2,scenario_B,ANN / Full,prec_mean,0.804233
+Label Flipping,label,0.2,scenario_B,ANN / Full,rec_mean,0.847273
+Label Flipping,label,0.2,scenario_B,ANN / PCA,acc_mean,0.771429
+Label Flipping,label,0.2,scenario_B,ANN / PCA,acc_std,0.04785
+Label Flipping,label,0.2,scenario_B,ANN / PCA,auc_mean,0.785859
+Label Flipping,label,0.2,scenario_B,ANN / PCA,prec_mean,0.777114
+Label Flipping,label,0.2,scenario_B,ANN / PCA,rec_mean,0.872727
+Label Flipping,label,0.2,scenario_B,ANN / FS,acc_mean,0.727473
+Label Flipping,label,0.2,scenario_B,ANN / FS,acc_std,0.074661
+Label Flipping,label,0.2,scenario_B,ANN / FS,auc_mean,0.768384
+Label Flipping,label,0.2,scenario_B,ANN / FS,prec_mean,0.744474
+Label Flipping,label,0.2,scenario_B,ANN / FS,rec_mean,0.861818
+Label Flipping,label,0.2,scenario_B,SVM / Full,acc_mean,0.802198
+Label Flipping,label,0.2,scenario_B,SVM / Full,acc_std,0.047647
+Label Flipping,label,0.2,scenario_B,SVM / Full,auc_mean,0.790606
+Label Flipping,label,0.2,scenario_B,SVM / Full,prec_mean,0.823007
+Label Flipping,label,0.2,scenario_B,SVM / Full,rec_mean,0.858182
+Label Flipping,label,0.2,scenario_B,SVM / PCA,acc_mean,0.784615
+Label Flipping,label,0.2,scenario_B,SVM / PCA,acc_std,0.036513
+Label Flipping,label,0.2,scenario_B,SVM / PCA,auc_mean,0.786667
+Label Flipping,label,0.2,scenario_B,SVM / PCA,prec_mean,0.79801
+Label Flipping,label,0.2,scenario_B,SVM / PCA,rec_mean,0.861818
+Label Flipping,label,0.2,scenario_B,SVM / FS,acc_mean,0.771429
+Label Flipping,label,0.2,scenario_B,SVM / FS,acc_std,0.038945
+Label Flipping,label,0.2,scenario_B,SVM / FS,auc_mean,0.777475
+Label Flipping,label,0.2,scenario_B,SVM / FS,prec_mean,0.785853
+Label Flipping,label,0.2,scenario_B,SVM / FS,rec_mean,0.858182
+Label Flipping,label,0.2,scenario_C,ANN / Full,acc_mean,0.764835
+Label Flipping,label,0.2,scenario_C,ANN / Full,acc_std,0.057564
+Label Flipping,label,0.2,scenario_C,ANN / Full,auc_mean,0.767374
+Label Flipping,label,0.2,scenario_C,ANN / Full,prec_mean,0.788512
+Label Flipping,label,0.2,scenario_C,ANN / Full,rec_mean,0.84
+Label Flipping,label,0.2,scenario_C,ANN / PCA,acc_mean,0.771429
+Label Flipping,label,0.2,scenario_C,ANN / PCA,acc_std,0.059948
+Label Flipping,label,0.2,scenario_C,ANN / PCA,auc_mean,0.789646
+Label Flipping,label,0.2,scenario_C,ANN / PCA,prec_mean,0.771565
+Label Flipping,label,0.2,scenario_C,ANN / PCA,rec_mean,0.890909
+Label Flipping,label,0.2,scenario_C,ANN / FS,acc_mean,0.749451
+Label Flipping,label,0.2,scenario_C,ANN / FS,acc_std,0.044719
+Label Flipping,label,0.2,scenario_C,ANN / FS,auc_mean,0.770808
+Label Flipping,label,0.2,scenario_C,ANN / FS,prec_mean,0.768496
+Label Flipping,label,0.2,scenario_C,ANN / FS,rec_mean,0.847273
+Label Flipping,label,0.2,scenario_C,SVM / Full,acc_mean,0.802198
+Label Flipping,label,0.2,scenario_C,SVM / Full,acc_std,0.047647
+Label Flipping,label,0.2,scenario_C,SVM / Full,auc_mean,0.790606
+Label Flipping,label,0.2,scenario_C,SVM / Full,prec_mean,0.823007
+Label Flipping,label,0.2,scenario_C,SVM / Full,rec_mean,0.858182
+Label Flipping,label,0.2,scenario_C,SVM / PCA,acc_mean,0.784615
+Label Flipping,label,0.2,scenario_C,SVM / PCA,acc_std,0.036513
+Label Flipping,label,0.2,scenario_C,SVM / PCA,auc_mean,0.786616
+Label Flipping,label,0.2,scenario_C,SVM / PCA,prec_mean,0.79801
+Label Flipping,label,0.2,scenario_C,SVM / PCA,rec_mean,0.861818
+Label Flipping,label,0.2,scenario_C,SVM / FS,acc_mean,0.771429
+Label Flipping,label,0.2,scenario_C,SVM / FS,acc_std,0.038945
+Label Flipping,label,0.2,scenario_C,SVM / FS,auc_mean,0.777475
+Label Flipping,label,0.2,scenario_C,SVM / FS,prec_mean,0.785853
+Label Flipping,label,0.2,scenario_C,SVM / FS,rec_mean,0.858182
+Feature Drift (Bias),drift,0.0,clean,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.0,clean,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.0,clean,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.0,clean,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.0,clean,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.0,clean,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.0,clean,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.0,clean,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.0,clean,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.0,clean,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.0,clean,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.0,clean,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.0,clean,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.0,clean,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.0,clean,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.0,clean,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.0,clean,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.0,clean,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.0,clean,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.0,clean,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,clean,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.0,clean,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.0,clean,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.0,clean,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.0,clean,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,clean,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.0,clean,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.0,clean,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.0,clean,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.0,clean,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.0,scenario_A,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.0,scenario_A,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.0,scenario_B,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.0,scenario_B,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.0,scenario_C,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.0,scenario_C,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.15,clean,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.15,clean,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.15,clean,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.15,clean,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.15,clean,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.15,clean,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.15,clean,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.15,clean,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.15,clean,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.15,clean,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.15,clean,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.15,clean,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.15,clean,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.15,clean,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.15,clean,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.15,clean,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.15,clean,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.15,clean,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.15,clean,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.15,clean,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,clean,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.15,clean,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.15,clean,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.15,clean,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.15,clean,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,clean,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.15,clean,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.15,clean,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.15,clean,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.15,clean,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / Full,acc_mean,0.962637
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / Full,acc_std,0.008791
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / Full,auc_mean,0.991125
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / Full,prec_mean,0.962555
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / Full,rec_mean,0.978947
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / PCA,acc_std,0.010767
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / PCA,auc_mean,0.986997
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / PCA,prec_mean,0.969314
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / PCA,rec_mean,0.992982
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / FS,acc_mean,0.945055
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / FS,acc_std,0.012038
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / FS,auc_mean,0.980495
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / FS,prec_mean,0.948373
+Feature Drift (Bias),drift,0.15,scenario_A,ANN / FS,rec_mean,0.964912
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / FS,auc_mean,0.975387
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.15,scenario_A,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / Full,acc_mean,0.964835
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / Full,acc_std,0.01615
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / Full,auc_mean,0.989267
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / Full,prec_mean,0.959345
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / PCA,acc_std,0.014579
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / PCA,auc_mean,0.992157
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / PCA,prec_mean,0.972315
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / PCA,rec_mean,0.97193
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / FS,acc_std,0.010767
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / FS,prec_mean,0.951234
+Feature Drift (Bias),drift,0.15,scenario_B,ANN / FS,rec_mean,0.957895
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.15,scenario_B,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / Full,acc_mean,0.964835
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / Full,acc_std,0.012815
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / Full,prec_mean,0.965661
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / Full,rec_mean,0.978947
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / PCA,acc_mean,0.978022
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / PCA,acc_std,0.00695
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / PCA,auc_mean,0.990815
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / PCA,prec_mean,0.972587
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / PCA,rec_mean,0.992982
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / FS,acc_mean,0.949451
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / FS,acc_std,0.016447
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / FS,auc_mean,0.97936
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / FS,prec_mean,0.955043
+Feature Drift (Bias),drift,0.15,scenario_C,ANN / FS,rec_mean,0.964912
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.15,scenario_C,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.3,clean,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.3,clean,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.3,clean,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.3,clean,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.3,clean,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.3,clean,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.3,clean,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.3,clean,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.3,clean,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.3,clean,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.3,clean,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.3,clean,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.3,clean,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.3,clean,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.3,clean,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.3,clean,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.3,clean,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.3,clean,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.3,clean,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.3,clean,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,clean,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.3,clean,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.3,clean,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.3,clean,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.3,clean,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,clean,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.3,clean,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.3,clean,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.3,clean,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.3,clean,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / Full,acc_std,0.011207
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / Full,auc_mean,0.992879
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / Full,prec_mean,0.9697
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / PCA,acc_mean,0.98022
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / PCA,acc_std,0.004396
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / PCA,auc_mean,0.993137
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / PCA,prec_mean,0.975975
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / PCA,rec_mean,0.992982
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / FS,acc_mean,0.947253
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / FS,acc_std,0.014579
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / FS,auc_mean,0.979463
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / FS,prec_mean,0.951881
+Feature Drift (Bias),drift,0.3,scenario_A,ANN / FS,rec_mean,0.964912
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / FS,auc_mean,0.975387
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.3,scenario_A,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / Full,auc_mean,0.987822
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / Full,prec_mean,0.96936
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / PCA,acc_mean,0.969231
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / PCA,acc_std,0.014579
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / PCA,auc_mean,0.990918
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / PCA,prec_mean,0.962629
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / PCA,rec_mean,0.989474
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / FS,acc_mean,0.940659
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / FS,acc_std,0.022628
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / FS,auc_mean,0.980702
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / FS,prec_mean,0.951348
+Feature Drift (Bias),drift,0.3,scenario_B,ANN / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / FS,auc_mean,0.975387
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.3,scenario_B,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / Full,acc_mean,0.969231
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / Full,acc_std,0.010767
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / Full,auc_mean,0.991641
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / Full,prec_mean,0.972226
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / Full,rec_mean,0.978947
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / PCA,acc_mean,0.978022
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / PCA,acc_std,0.00695
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / PCA,auc_mean,0.99453
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / PCA,prec_mean,0.969316
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / PCA,rec_mean,0.996491
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / FS,acc_mean,0.949451
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / FS,acc_std,0.011207
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / FS,auc_mean,0.980289
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / FS,prec_mean,0.95487
+Feature Drift (Bias),drift,0.3,scenario_C,ANN / FS,rec_mean,0.964912
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.3,scenario_C,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.5,clean,ANN / Full,acc_mean,0.978022
+Feature Drift (Bias),drift,0.5,clean,ANN / Full,acc_std,0.0
+Feature Drift (Bias),drift,0.5,clean,ANN / Full,auc_mean,0.991847
+Feature Drift (Bias),drift,0.5,clean,ANN / Full,prec_mean,0.975914
+Feature Drift (Bias),drift,0.5,clean,ANN / Full,rec_mean,0.989474
+Feature Drift (Bias),drift,0.5,clean,ANN / PCA,acc_mean,0.964835
+Feature Drift (Bias),drift,0.5,clean,ANN / PCA,acc_std,0.012815
+Feature Drift (Bias),drift,0.5,clean,ANN / PCA,auc_mean,0.98741
+Feature Drift (Bias),drift,0.5,clean,ANN / PCA,prec_mean,0.968765
+Feature Drift (Bias),drift,0.5,clean,ANN / PCA,rec_mean,0.975439
+Feature Drift (Bias),drift,0.5,clean,ANN / FS,acc_mean,0.942857
+Feature Drift (Bias),drift,0.5,clean,ANN / FS,acc_std,0.018906
+Feature Drift (Bias),drift,0.5,clean,ANN / FS,auc_mean,0.978122
+Feature Drift (Bias),drift,0.5,clean,ANN / FS,prec_mean,0.94803
+Feature Drift (Bias),drift,0.5,clean,ANN / FS,rec_mean,0.961404
+Feature Drift (Bias),drift,0.5,clean,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.5,clean,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.5,clean,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.5,clean,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.5,clean,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,clean,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.5,clean,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.5,clean,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.5,clean,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.5,clean,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,clean,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.5,clean,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.5,clean,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.5,clean,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.5,clean,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / Full,acc_std,0.011207
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / Full,auc_mean,0.993498
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / Full,prec_mean,0.979407
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / Full,rec_mean,0.978947
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / PCA,acc_mean,0.978022
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / PCA,acc_std,0.009829
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / PCA,auc_mean,0.992054
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / PCA,prec_mean,0.969427
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / PCA,rec_mean,0.996491
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / FS,acc_mean,0.947253
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / FS,acc_std,0.021308
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / FS,auc_mean,0.981424
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / FS,prec_mean,0.951452
+Feature Drift (Bias),drift,0.5,scenario_A,ANN / FS,rec_mean,0.964912
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.5,scenario_A,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / Full,acc_mean,0.971429
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / Full,acc_std,0.008791
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / Full,auc_mean,0.992466
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / Full,prec_mean,0.972343
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / Full,rec_mean,0.982456
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / PCA,acc_mean,0.973626
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / PCA,acc_std,0.005383
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / PCA,auc_mean,0.986791
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / PCA,prec_mean,0.966035
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / PCA,rec_mean,0.992982
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / FS,acc_mean,0.945055
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / FS,acc_std,0.018388
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / FS,auc_mean,0.981631
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / FS,prec_mean,0.954701
+Feature Drift (Bias),drift,0.5,scenario_B,ANN / FS,rec_mean,0.957895
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / FS,auc_mean,0.975387
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.5,scenario_B,SVM / FS,rec_mean,0.954386
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / Full,acc_mean,0.971429
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / Full,acc_std,0.013187
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / Full,auc_mean,0.990918
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / Full,prec_mean,0.97228
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / Full,rec_mean,0.982456
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / PCA,auc_mean,0.991434
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / PCA,prec_mean,0.972692
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / PCA,rec_mean,0.989474
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / FS,acc_mean,0.945055
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / FS,acc_std,0.015541
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / FS,auc_mean,0.980289
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / FS,prec_mean,0.955075
+Feature Drift (Bias),drift,0.5,scenario_C,ANN / FS,rec_mean,0.957895
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / Full,acc_mean,0.973626
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / Full,acc_std,0.005383
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / Full,auc_mean,0.990196
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / Full,prec_mean,0.972631
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / Full,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / PCA,acc_mean,0.975824
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / PCA,acc_std,0.008223
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / PCA,auc_mean,0.992466
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / PCA,prec_mean,0.975795
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / PCA,rec_mean,0.985965
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / FS,acc_mean,0.938462
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / FS,acc_std,0.01916
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / FS,auc_mean,0.975335
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / FS,prec_mean,0.948331
+Feature Drift (Bias),drift,0.5,scenario_C,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.0,clean,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.0,clean,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.0,clean,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.0,clean,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.0,clean,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.0,clean,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.0,clean,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.0,clean,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.0,clean,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.0,clean,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.0,clean,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.0,clean,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.0,clean,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.0,clean,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.0,clean,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.0,clean,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.0,clean,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.0,clean,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.0,clean,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.0,clean,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,clean,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.0,clean,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.0,clean,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.0,clean,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.0,clean,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,clean,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.0,clean,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.0,clean,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.0,clean,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.0,clean,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.0,scenario_A,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.0,scenario_A,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.0,scenario_A,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.0,scenario_A,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.0,scenario_A,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.0,scenario_A,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.0,scenario_A,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.0,scenario_A,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.0,scenario_A,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.0,scenario_A,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.0,scenario_A,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.0,scenario_A,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.0,scenario_A,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.0,scenario_A,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.0,scenario_A,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.0,scenario_A,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.0,scenario_A,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.0,scenario_A,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.0,scenario_A,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.0,scenario_A,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,scenario_A,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.0,scenario_A,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.0,scenario_A,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.0,scenario_A,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.0,scenario_A,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,scenario_A,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.0,scenario_A,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.0,scenario_A,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.0,scenario_A,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.0,scenario_A,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.0,scenario_B,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.0,scenario_B,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.0,scenario_B,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.0,scenario_B,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.0,scenario_B,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.0,scenario_B,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.0,scenario_B,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.0,scenario_B,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.0,scenario_B,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.0,scenario_B,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.0,scenario_B,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.0,scenario_B,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.0,scenario_B,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.0,scenario_B,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.0,scenario_B,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.0,scenario_B,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.0,scenario_B,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.0,scenario_B,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.0,scenario_B,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.0,scenario_B,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,scenario_B,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.0,scenario_B,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.0,scenario_B,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.0,scenario_B,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.0,scenario_B,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,scenario_B,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.0,scenario_B,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.0,scenario_B,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.0,scenario_B,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.0,scenario_B,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.0,scenario_C,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.0,scenario_C,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.0,scenario_C,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.0,scenario_C,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.0,scenario_C,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.0,scenario_C,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.0,scenario_C,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.0,scenario_C,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.0,scenario_C,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.0,scenario_C,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.0,scenario_C,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.0,scenario_C,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.0,scenario_C,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.0,scenario_C,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.0,scenario_C,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.0,scenario_C,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.0,scenario_C,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.0,scenario_C,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.0,scenario_C,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.0,scenario_C,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,scenario_C,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.0,scenario_C,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.0,scenario_C,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.0,scenario_C,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.0,scenario_C,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.0,scenario_C,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.0,scenario_C,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.0,scenario_C,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.0,scenario_C,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.0,scenario_C,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.15,clean,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.15,clean,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.15,clean,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.15,clean,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.15,clean,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.15,clean,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.15,clean,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.15,clean,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.15,clean,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.15,clean,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.15,clean,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.15,clean,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.15,clean,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.15,clean,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.15,clean,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.15,clean,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.15,clean,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.15,clean,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.15,clean,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.15,clean,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,clean,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.15,clean,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.15,clean,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.15,clean,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.15,clean,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,clean,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.15,clean,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.15,clean,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.15,clean,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.15,clean,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.15,scenario_A,ANN / Full,acc_mean,0.969231
+Scaling Artifact,scaling,0.15,scenario_A,ANN / Full,acc_std,0.008223
+Scaling Artifact,scaling,0.15,scenario_A,ANN / Full,auc_mean,0.990764
+Scaling Artifact,scaling,0.15,scenario_A,ANN / Full,prec_mean,0.968955
+Scaling Artifact,scaling,0.15,scenario_A,ANN / Full,rec_mean,0.982456
+Scaling Artifact,scaling,0.15,scenario_A,ANN / PCA,acc_mean,0.971429
+Scaling Artifact,scaling,0.15,scenario_A,ANN / PCA,acc_std,0.008791
+Scaling Artifact,scaling,0.15,scenario_A,ANN / PCA,auc_mean,0.990609
+Scaling Artifact,scaling,0.15,scenario_A,ANN / PCA,prec_mean,0.965747
+Scaling Artifact,scaling,0.15,scenario_A,ANN / PCA,rec_mean,0.989474
+Scaling Artifact,scaling,0.15,scenario_A,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.15,scenario_A,ANN / FS,acc_std,0.014579
+Scaling Artifact,scaling,0.15,scenario_A,ANN / FS,auc_mean,0.981734
+Scaling Artifact,scaling,0.15,scenario_A,ANN / FS,prec_mean,0.948477
+Scaling Artifact,scaling,0.15,scenario_A,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.15,scenario_A,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.15,scenario_A,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.15,scenario_A,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.15,scenario_A,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.15,scenario_A,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,scenario_A,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.15,scenario_A,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.15,scenario_A,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.15,scenario_A,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.15,scenario_A,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,scenario_A,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.15,scenario_A,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.15,scenario_A,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.15,scenario_A,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.15,scenario_A,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.15,scenario_B,ANN / Full,acc_mean,0.964835
+Scaling Artifact,scaling,0.15,scenario_B,ANN / Full,acc_std,0.01615
+Scaling Artifact,scaling,0.15,scenario_B,ANN / Full,auc_mean,0.99257
+Scaling Artifact,scaling,0.15,scenario_B,ANN / Full,prec_mean,0.965597
+Scaling Artifact,scaling,0.15,scenario_B,ANN / Full,rec_mean,0.978947
+Scaling Artifact,scaling,0.15,scenario_B,ANN / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.15,scenario_B,ANN / PCA,acc_std,0.004396
+Scaling Artifact,scaling,0.15,scenario_B,ANN / PCA,auc_mean,0.991744
+Scaling Artifact,scaling,0.15,scenario_B,ANN / PCA,prec_mean,0.972581
+Scaling Artifact,scaling,0.15,scenario_B,ANN / PCA,rec_mean,0.989474
+Scaling Artifact,scaling,0.15,scenario_B,ANN / FS,acc_mean,0.951648
+Scaling Artifact,scaling,0.15,scenario_B,ANN / FS,acc_std,0.014906
+Scaling Artifact,scaling,0.15,scenario_B,ANN / FS,auc_mean,0.981527
+Scaling Artifact,scaling,0.15,scenario_B,ANN / FS,prec_mean,0.948802
+Scaling Artifact,scaling,0.15,scenario_B,ANN / FS,rec_mean,0.975439
+Scaling Artifact,scaling,0.15,scenario_B,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.15,scenario_B,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.15,scenario_B,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.15,scenario_B,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.15,scenario_B,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,scenario_B,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.15,scenario_B,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.15,scenario_B,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.15,scenario_B,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.15,scenario_B,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,scenario_B,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.15,scenario_B,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.15,scenario_B,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.15,scenario_B,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.15,scenario_B,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.15,scenario_C,ANN / Full,acc_mean,0.975824
+Scaling Artifact,scaling,0.15,scenario_C,ANN / Full,acc_std,0.004396
+Scaling Artifact,scaling,0.15,scenario_C,ANN / Full,auc_mean,0.991434
+Scaling Artifact,scaling,0.15,scenario_C,ANN / Full,prec_mean,0.972527
+Scaling Artifact,scaling,0.15,scenario_C,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.15,scenario_C,ANN / PCA,acc_mean,0.978022
+Scaling Artifact,scaling,0.15,scenario_C,ANN / PCA,acc_std,0.009829
+Scaling Artifact,scaling,0.15,scenario_C,ANN / PCA,auc_mean,0.992879
+Scaling Artifact,scaling,0.15,scenario_C,ANN / PCA,prec_mean,0.972531
+Scaling Artifact,scaling,0.15,scenario_C,ANN / PCA,rec_mean,0.992982
+Scaling Artifact,scaling,0.15,scenario_C,ANN / FS,acc_mean,0.940659
+Scaling Artifact,scaling,0.15,scenario_C,ANN / FS,acc_std,0.011207
+Scaling Artifact,scaling,0.15,scenario_C,ANN / FS,auc_mean,0.980186
+Scaling Artifact,scaling,0.15,scenario_C,ANN / FS,prec_mean,0.948064
+Scaling Artifact,scaling,0.15,scenario_C,ANN / FS,rec_mean,0.957895
+Scaling Artifact,scaling,0.15,scenario_C,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.15,scenario_C,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.15,scenario_C,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.15,scenario_C,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.15,scenario_C,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,scenario_C,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.15,scenario_C,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.15,scenario_C,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.15,scenario_C,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.15,scenario_C,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.15,scenario_C,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.15,scenario_C,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.15,scenario_C,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.15,scenario_C,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.15,scenario_C,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.3,clean,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.3,clean,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.3,clean,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.3,clean,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.3,clean,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.3,clean,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.3,clean,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.3,clean,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.3,clean,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.3,clean,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.3,clean,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.3,clean,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.3,clean,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.3,clean,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.3,clean,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.3,clean,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.3,clean,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.3,clean,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.3,clean,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.3,clean,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,clean,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.3,clean,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.3,clean,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.3,clean,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.3,clean,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,clean,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.3,clean,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.3,clean,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.3,clean,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.3,clean,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.3,scenario_A,ANN / Full,acc_mean,0.967033
+Scaling Artifact,scaling,0.3,scenario_A,ANN / Full,acc_std,0.00695
+Scaling Artifact,scaling,0.3,scenario_A,ANN / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.3,scenario_A,ANN / Full,prec_mean,0.96906
+Scaling Artifact,scaling,0.3,scenario_A,ANN / Full,rec_mean,0.978947
+Scaling Artifact,scaling,0.3,scenario_A,ANN / PCA,acc_mean,0.967033
+Scaling Artifact,scaling,0.3,scenario_A,ANN / PCA,acc_std,0.012038
+Scaling Artifact,scaling,0.3,scenario_A,ANN / PCA,auc_mean,0.989577
+Scaling Artifact,scaling,0.3,scenario_A,ANN / PCA,prec_mean,0.96247
+Scaling Artifact,scaling,0.3,scenario_A,ANN / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_A,ANN / FS,acc_mean,0.945055
+Scaling Artifact,scaling,0.3,scenario_A,ANN / FS,acc_std,0.009829
+Scaling Artifact,scaling,0.3,scenario_A,ANN / FS,auc_mean,0.980186
+Scaling Artifact,scaling,0.3,scenario_A,ANN / FS,prec_mean,0.94847
+Scaling Artifact,scaling,0.3,scenario_A,ANN / FS,rec_mean,0.964912
+Scaling Artifact,scaling,0.3,scenario_A,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.3,scenario_A,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.3,scenario_A,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.3,scenario_A,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.3,scenario_A,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_A,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.3,scenario_A,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.3,scenario_A,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.3,scenario_A,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.3,scenario_A,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_A,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.3,scenario_A,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.3,scenario_A,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.3,scenario_A,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.3,scenario_A,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.3,scenario_B,ANN / Full,acc_mean,0.975824
+Scaling Artifact,scaling,0.3,scenario_B,ANN / Full,acc_std,0.008223
+Scaling Artifact,scaling,0.3,scenario_B,ANN / Full,auc_mean,0.992363
+Scaling Artifact,scaling,0.3,scenario_B,ANN / Full,prec_mean,0.975795
+Scaling Artifact,scaling,0.3,scenario_B,ANN / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_B,ANN / PCA,acc_mean,0.971429
+Scaling Artifact,scaling,0.3,scenario_B,ANN / PCA,acc_std,0.005383
+Scaling Artifact,scaling,0.3,scenario_B,ANN / PCA,auc_mean,0.991125
+Scaling Artifact,scaling,0.3,scenario_B,ANN / PCA,prec_mean,0.972569
+Scaling Artifact,scaling,0.3,scenario_B,ANN / PCA,rec_mean,0.982456
+Scaling Artifact,scaling,0.3,scenario_B,ANN / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.3,scenario_B,ANN / FS,acc_std,0.017855
+Scaling Artifact,scaling,0.3,scenario_B,ANN / FS,auc_mean,0.980599
+Scaling Artifact,scaling,0.3,scenario_B,ANN / FS,prec_mean,0.947957
+Scaling Artifact,scaling,0.3,scenario_B,ANN / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.3,scenario_B,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.3,scenario_B,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.3,scenario_B,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.3,scenario_B,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.3,scenario_B,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_B,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.3,scenario_B,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.3,scenario_B,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.3,scenario_B,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.3,scenario_B,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_B,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.3,scenario_B,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.3,scenario_B,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.3,scenario_B,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.3,scenario_B,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.3,scenario_C,ANN / Full,acc_mean,0.969231
+Scaling Artifact,scaling,0.3,scenario_C,ANN / Full,acc_std,0.012815
+Scaling Artifact,scaling,0.3,scenario_C,ANN / Full,auc_mean,0.993395
+Scaling Artifact,scaling,0.3,scenario_C,ANN / Full,prec_mean,0.975603
+Scaling Artifact,scaling,0.3,scenario_C,ANN / Full,rec_mean,0.975439
+Scaling Artifact,scaling,0.3,scenario_C,ANN / PCA,acc_mean,0.978022
+Scaling Artifact,scaling,0.3,scenario_C,ANN / PCA,acc_std,0.009829
+Scaling Artifact,scaling,0.3,scenario_C,ANN / PCA,auc_mean,0.990093
+Scaling Artifact,scaling,0.3,scenario_C,ANN / PCA,prec_mean,0.969427
+Scaling Artifact,scaling,0.3,scenario_C,ANN / PCA,rec_mean,0.996491
+Scaling Artifact,scaling,0.3,scenario_C,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.3,scenario_C,ANN / FS,acc_std,0.021308
+Scaling Artifact,scaling,0.3,scenario_C,ANN / FS,auc_mean,0.979876
+Scaling Artifact,scaling,0.3,scenario_C,ANN / FS,prec_mean,0.957691
+Scaling Artifact,scaling,0.3,scenario_C,ANN / FS,rec_mean,0.950877
+Scaling Artifact,scaling,0.3,scenario_C,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.3,scenario_C,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.3,scenario_C,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.3,scenario_C,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.3,scenario_C,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_C,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.3,scenario_C,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.3,scenario_C,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.3,scenario_C,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.3,scenario_C,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.3,scenario_C,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.3,scenario_C,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.3,scenario_C,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.3,scenario_C,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.3,scenario_C,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.5,clean,ANN / Full,acc_mean,0.978022
+Scaling Artifact,scaling,0.5,clean,ANN / Full,acc_std,0.0
+Scaling Artifact,scaling,0.5,clean,ANN / Full,auc_mean,0.991847
+Scaling Artifact,scaling,0.5,clean,ANN / Full,prec_mean,0.975914
+Scaling Artifact,scaling,0.5,clean,ANN / Full,rec_mean,0.989474
+Scaling Artifact,scaling,0.5,clean,ANN / PCA,acc_mean,0.964835
+Scaling Artifact,scaling,0.5,clean,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.5,clean,ANN / PCA,auc_mean,0.98741
+Scaling Artifact,scaling,0.5,clean,ANN / PCA,prec_mean,0.968765
+Scaling Artifact,scaling,0.5,clean,ANN / PCA,rec_mean,0.975439
+Scaling Artifact,scaling,0.5,clean,ANN / FS,acc_mean,0.942857
+Scaling Artifact,scaling,0.5,clean,ANN / FS,acc_std,0.018906
+Scaling Artifact,scaling,0.5,clean,ANN / FS,auc_mean,0.978122
+Scaling Artifact,scaling,0.5,clean,ANN / FS,prec_mean,0.94803
+Scaling Artifact,scaling,0.5,clean,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.5,clean,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.5,clean,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.5,clean,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.5,clean,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.5,clean,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,clean,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.5,clean,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.5,clean,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.5,clean,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.5,clean,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,clean,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.5,clean,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.5,clean,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.5,clean,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.5,clean,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.5,scenario_A,ANN / Full,acc_mean,0.969231
+Scaling Artifact,scaling,0.5,scenario_A,ANN / Full,acc_std,0.010767
+Scaling Artifact,scaling,0.5,scenario_A,ANN / Full,auc_mean,0.991331
+Scaling Artifact,scaling,0.5,scenario_A,ANN / Full,prec_mean,0.972278
+Scaling Artifact,scaling,0.5,scenario_A,ANN / Full,rec_mean,0.978947
+Scaling Artifact,scaling,0.5,scenario_A,ANN / PCA,acc_mean,0.98022
+Scaling Artifact,scaling,0.5,scenario_A,ANN / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.5,scenario_A,ANN / PCA,auc_mean,0.990506
+Scaling Artifact,scaling,0.5,scenario_A,ANN / PCA,prec_mean,0.975918
+Scaling Artifact,scaling,0.5,scenario_A,ANN / PCA,rec_mean,0.992982
+Scaling Artifact,scaling,0.5,scenario_A,ANN / FS,acc_mean,0.934066
+Scaling Artifact,scaling,0.5,scenario_A,ANN / FS,acc_std,0.009829
+Scaling Artifact,scaling,0.5,scenario_A,ANN / FS,auc_mean,0.979154
+Scaling Artifact,scaling,0.5,scenario_A,ANN / FS,prec_mean,0.950609
+Scaling Artifact,scaling,0.5,scenario_A,ANN / FS,rec_mean,0.94386
+Scaling Artifact,scaling,0.5,scenario_A,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.5,scenario_A,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.5,scenario_A,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.5,scenario_A,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.5,scenario_A,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_A,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.5,scenario_A,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.5,scenario_A,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.5,scenario_A,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.5,scenario_A,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_A,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.5,scenario_A,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.5,scenario_A,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.5,scenario_A,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.5,scenario_A,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.5,scenario_B,ANN / Full,acc_mean,0.971429
+Scaling Artifact,scaling,0.5,scenario_B,ANN / Full,acc_std,0.014906
+Scaling Artifact,scaling,0.5,scenario_B,ANN / Full,auc_mean,0.992157
+Scaling Artifact,scaling,0.5,scenario_B,ANN / Full,prec_mean,0.972224
+Scaling Artifact,scaling,0.5,scenario_B,ANN / Full,rec_mean,0.982456
+Scaling Artifact,scaling,0.5,scenario_B,ANN / PCA,acc_mean,0.969231
+Scaling Artifact,scaling,0.5,scenario_B,ANN / PCA,acc_std,0.012815
+Scaling Artifact,scaling,0.5,scenario_B,ANN / PCA,auc_mean,0.988648
+Scaling Artifact,scaling,0.5,scenario_B,ANN / PCA,prec_mean,0.962702
+Scaling Artifact,scaling,0.5,scenario_B,ANN / PCA,rec_mean,0.989474
+Scaling Artifact,scaling,0.5,scenario_B,ANN / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.5,scenario_B,ANN / FS,acc_std,0.011207
+Scaling Artifact,scaling,0.5,scenario_B,ANN / FS,auc_mean,0.979463
+Scaling Artifact,scaling,0.5,scenario_B,ANN / FS,prec_mean,0.951281
+Scaling Artifact,scaling,0.5,scenario_B,ANN / FS,rec_mean,0.950877
+Scaling Artifact,scaling,0.5,scenario_B,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.5,scenario_B,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.5,scenario_B,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.5,scenario_B,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.5,scenario_B,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_B,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.5,scenario_B,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.5,scenario_B,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.5,scenario_B,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.5,scenario_B,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_B,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.5,scenario_B,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.5,scenario_B,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.5,scenario_B,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.5,scenario_B,SVM / FS,rec_mean,0.954386
+Scaling Artifact,scaling,0.5,scenario_C,ANN / Full,acc_mean,0.975824
+Scaling Artifact,scaling,0.5,scenario_C,ANN / Full,acc_std,0.010767
+Scaling Artifact,scaling,0.5,scenario_C,ANN / Full,auc_mean,0.993292
+Scaling Artifact,scaling,0.5,scenario_C,ANN / Full,prec_mean,0.979118
+Scaling Artifact,scaling,0.5,scenario_C,ANN / Full,rec_mean,0.982456
+Scaling Artifact,scaling,0.5,scenario_C,ANN / PCA,acc_mean,0.971429
+Scaling Artifact,scaling,0.5,scenario_C,ANN / PCA,acc_std,0.008791
+Scaling Artifact,scaling,0.5,scenario_C,ANN / PCA,auc_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_C,ANN / PCA,prec_mean,0.969185
+Scaling Artifact,scaling,0.5,scenario_C,ANN / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_C,ANN / FS,acc_mean,0.947253
+Scaling Artifact,scaling,0.5,scenario_C,ANN / FS,acc_std,0.010767
+Scaling Artifact,scaling,0.5,scenario_C,ANN / FS,auc_mean,0.980289
+Scaling Artifact,scaling,0.5,scenario_C,ANN / FS,prec_mean,0.954745
+Scaling Artifact,scaling,0.5,scenario_C,ANN / FS,rec_mean,0.961404
+Scaling Artifact,scaling,0.5,scenario_C,SVM / Full,acc_mean,0.973626
+Scaling Artifact,scaling,0.5,scenario_C,SVM / Full,acc_std,0.005383
+Scaling Artifact,scaling,0.5,scenario_C,SVM / Full,auc_mean,0.990196
+Scaling Artifact,scaling,0.5,scenario_C,SVM / Full,prec_mean,0.972631
+Scaling Artifact,scaling,0.5,scenario_C,SVM / Full,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_C,SVM / PCA,acc_mean,0.975824
+Scaling Artifact,scaling,0.5,scenario_C,SVM / PCA,acc_std,0.008223
+Scaling Artifact,scaling,0.5,scenario_C,SVM / PCA,auc_mean,0.992466
+Scaling Artifact,scaling,0.5,scenario_C,SVM / PCA,prec_mean,0.975795
+Scaling Artifact,scaling,0.5,scenario_C,SVM / PCA,rec_mean,0.985965
+Scaling Artifact,scaling,0.5,scenario_C,SVM / FS,acc_mean,0.938462
+Scaling Artifact,scaling,0.5,scenario_C,SVM / FS,acc_std,0.01916
+Scaling Artifact,scaling,0.5,scenario_C,SVM / FS,auc_mean,0.975335
+Scaling Artifact,scaling,0.5,scenario_C,SVM / FS,prec_mean,0.948331
+Scaling Artifact,scaling,0.5,scenario_C,SVM / FS,rec_mean,0.954386

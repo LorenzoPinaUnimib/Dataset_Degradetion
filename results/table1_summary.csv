@@ -1,0 +1,25 @@
+Corruption Type,Max Level,Scenario,Avg Accuracy,Avg AUC
+Gaussian Noise,0.5,Baseline,0.9623,0.9859
+Gaussian Noise,0.5,Scen. A,0.9641,0.9866
+Gaussian Noise,0.5,Scen. B,0.9564,0.9871
+Gaussian Noise,0.5,Scen. C,0.9542,0.9871
+Outlier Injection,0.2,Baseline,0.9623,0.9859
+Outlier Injection,0.2,Scen. A,0.9612,0.9867
+Outlier Injection,0.2,Scen. B,0.8564,0.9023
+Outlier Injection,0.2,Scen. C,0.8648,0.9070
+Missing Values (MCAR),0.3,Baseline,0.9623,0.9859
+Missing Values (MCAR),0.3,Scen. A,0.9630,0.9872
+Missing Values (MCAR),0.3,Scen. B,0.9421,0.9831
+Missing Values (MCAR),0.3,Scen. C,0.9399,0.9840
+Label Flipping,0.2,Baseline,0.9623,0.9859
+Label Flipping,0.2,Scen. A,0.9608,0.9869
+Label Flipping,0.2,Scen. B,0.7733,0.7826
+Label Flipping,0.2,Scen. C,0.7740,0.7804
+Feature Drift (Bias),0.5,Baseline,0.9623,0.9859
+Feature Drift (Bias),0.5,Scen. A,0.9645,0.9875
+Feature Drift (Bias),0.5,Scen. B,0.9630,0.9865
+Feature Drift (Bias),0.5,Scen. C,0.9634,0.9868
+Scaling Artifact,0.5,Baseline,0.9623,0.9859
+Scaling Artifact,0.5,Scen. A,0.9619,0.9865
+Scaling Artifact,0.5,Scen. B,0.9612,0.9864
+Scaling Artifact,0.5,Scen. C,0.9637,0.9863
