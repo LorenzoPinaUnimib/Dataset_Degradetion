@@ -1,0 +1,30 @@
+Esplorazione dei dati: un'analisi esplorativa del dataset per comprendere la distribuzione delle feature, 
+la presenza di valori mancanti, la correlazione tra le feature e altre informazioni rilevanti.
+
+Preparazione dei dati --> eseguire la feature extraction per selezionare le feature più importanti e preparare 
+il dataset per l'addestramento dei modelli. Questo potrebbe includere la gestione dei valori mancanti, la 
+codifica delle variabili categoriche, la normalizzazione delle feature e altre trasformazioni necessarie. 
+Se si riesce fin da subito ad identificare quali possono essere le feature più importanti del dataset diventa
+poi interessante vedere come se lo sporcare queste colonne influisce sul risultato finale di classificazione,
+potrebbe essere anche interessante vedere quelle meno significative per capire se sporcandole queste influenzino
+o meno i risultati.
+
+Scelta del modello: Selezionare almeno 3 modelli di machine learning adatti al vostro problema.
+Baseline Model: Addestrare il modello sul dataset originale, senza alterare le feature. Questo servirà da riferimento
+per valutare l'impatto delle tecniche di sporco.
+Sporcare il dataset: Applicare diverse tecniche per sporcare il dataset. Queste potrebbero includere l'aggiunta di 
+rumore ai dati, la rimozione casuale di feature, la sostituzione di valori con valori casuali, la duplicazione dei 
+dati, l'introduzione di outlier, ecc.(si può usare anche la libreria pucktrick). Si può sporcare con errori diversi 
+e percentuali crescenti, feature diverse singolarmente o insieme; decidete quali feature sporcare in base a una 
+logica di analisi.
+
+Valutazione delle prestazioni: Valutare le prestazioni del modello utilizzando il dataset sporco. Misura metriche 
+come precision, recall, F1-score, accuracy e qualsiasi altra metrica rilevante per il problema.
+Confronto con il baseline: confronta le prestazioni del modello sul dataset sporco con quelle del baseline. 
+Analizza le differenze nelle prestazioni e identifica le feature che hanno avuto il maggior impatto.
+Interpretazione dei risultati: Spiegare il comportamento dei modelli rispetto al dataset sporco. Identifica le feature
+più importanti e discuti come il loro sporco ha influenzato le prestazioni del modello.
+
+Riflessioni e conclusioni: Concludere il progetto con riflessioni sull'efficacia delle tecniche di sporco nell'evidenziare
+l'importanza delle feature e sull'interpretazione dei risultati. Si offriranno poi suggerimenti per eventuali passi futuri
+o miglioramenti del processo.
