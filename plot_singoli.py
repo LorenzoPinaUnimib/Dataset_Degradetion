@@ -25,6 +25,7 @@ for ct in corruption_types:
     plt.legend()
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
+    plt.ylim(0, 1)
     plt.savefig(os.path.join(output_dir, f'{ct}.png'), dpi=150)
     plt.close()
 
