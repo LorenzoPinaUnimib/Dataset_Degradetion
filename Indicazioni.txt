@@ -1,3 +1,5 @@
+Indicazioni testuali - prese dalla mail:
+
 Esplorazione dei dati: un'analisi esplorativa del dataset per comprendere la distribuzione delle feature, 
 la presenza di valori mancanti, la correlazione tra le feature e altre informazioni rilevanti.
 
